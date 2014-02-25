@@ -1,0 +1,64 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+
+@import "compass/reset";
+@import "compass/css3";
+
+@import "custom";
+
+$default-color: #333332;
+
+
+* {
+	@include box-sizing(border-box);
+}
+
+body, html {
+	@include size(100%);
+
+	font-family: 'Open Sans', sans-serif;
+	color: $default-color;
+}
+
+#main-wrapper {
+	@include size(100%);
+
+	display : flex;
+	flex    : 1;
+
+	/* stupid IE10 tweener syntax */
+  	-ms-flex-preferred-size: auto;
+
+  	.main-nav{
+  		@include size(100%);
+  		background: rgba(255, 255, 255, 0.8);
+
+  		display: flex;
+		 align-items: center;
+  		justify-content: center;
+
+  		ul{
+  			li{
+  				margin: 40px 0;
+  				font-weight: 700;
+  				font-size: 48px;
+  				text-align: center;
+
+  				a{
+  					text-decoration: none; 
+  					color: $default-color;
+
+  					&:hover{
+  						text-decoration: line-through; 
+  					}
+
+  				}
+  			}
+  		}
+
+  	}
+
+}
+
