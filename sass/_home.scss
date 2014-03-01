@@ -1,0 +1,27 @@
+#home-content{
+  padding-top: 140px;
+  opacity: 0;
+
+  @include transition( all, 1s);
+
+  ul.posts{
+    li.post{
+      margin-bottom: 70px;
+
+      @include respond-to(mobile-screens){ font-size: 24px; }
+      @include respond-to(medium-screens){ font-size: 32px; }
+      @include respond-to(wide-screens)  { font-size: 32px; }
+      @include respond-to(max-screens)   { font-size: 32px; }
+
+    a{
+        text-decoration: none;
+        font-weight: 800;
+        color: $default-color;
+
+        &:hover{
+          text-decoration: line-through;
+        }
+      }
+    }
+  }
+}
