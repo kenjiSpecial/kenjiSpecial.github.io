@@ -10,7 +10,7 @@
             var self = this;
             setTimeout(function(){
                 self.el.style.opacity = 1;
-            }, 500);
+            }, 200);
         },
 
         onClickLink : function(event){

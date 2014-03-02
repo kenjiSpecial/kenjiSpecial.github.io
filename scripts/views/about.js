@@ -5,7 +5,7 @@
             var self = this;
             setTimeout(function(){
                 self.el.style.opacity = 1;
-            }, 300);
+            }, 200);
         }
     });
 
