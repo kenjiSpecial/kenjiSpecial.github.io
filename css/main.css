@@ -212,21 +212,27 @@ body, html {
   cursor: default;
 }
 /* line 110, ../sass/main.scss */
+#nav-list ul li span {
+  color: #ffffff;
+  cursor: default;
+  text-decoration: line-through;
+}
+/* line 116, ../sass/main.scss */
 #nav-list ul li a {
   text-decoration: none;
   color: #ffffff;
 }
-/* line 114, ../sass/main.scss */
+/* line 120, ../sass/main.scss */
 #nav-list ul li a:hover {
   text-decoration: line-through;
 }
 
-/* line 124, ../sass/main.scss */
+/* line 130, ../sass/main.scss */
 #nav-icon {
   cursor: pointer;
 }
 @media only screen and (max-width: 320px) {
-  /* line 124, ../sass/main.scss */
+  /* line 130, ../sass/main.scss */
   #nav-icon {
     top: 10px;
     right: 5px;
@@ -234,7 +240,7 @@ body, html {
   }
 }
 @media only screen and (min-width: 321px) and (max-width: 1023px) {
-  /* line 124, ../sass/main.scss */
+  /* line 130, ../sass/main.scss */
   #nav-icon {
     top: 20px;
     right: 30px;
@@ -242,7 +248,7 @@ body, html {
   }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1259px) {
-  /* line 124, ../sass/main.scss */
+  /* line 130, ../sass/main.scss */
   #nav-icon {
     top: 30px;
     right: 60px;
@@ -250,19 +256,19 @@ body, html {
   }
 }
 @media only screen and (min-width: 1260px) {
-  /* line 124, ../sass/main.scss */
+  /* line 130, ../sass/main.scss */
   #nav-icon {
     width: 100%;
     position: absolute;
     top: 0;
     left: 0;
   }
-  /* line 131, ../sass/main.scss */
+  /* line 137, ../sass/main.scss */
   #nav-icon .max-width-container {
     width: 1140px;
     margin: auto;
   }
-  /* line 132, ../sass/main.scss */
+  /* line 138, ../sass/main.scss */
   #nav-icon .max-width-container svg {
     float: right;
     margin-top: 30px;
@@ -270,28 +276,28 @@ body, html {
 }
 
 @media only screen and (max-width: 320px) {
-  /* line 139, ../sass/main.scss */
+  /* line 145, ../sass/main.scss */
   .main-content {
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 }
 @media only screen and (min-width: 321px) and (max-width: 1023px) {
-  /* line 139, ../sass/main.scss */
+  /* line 145, ../sass/main.scss */
   .main-content {
     margin-left: 30px;
     margin-right: 30px;
   }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1259px) {
-  /* line 139, ../sass/main.scss */
+  /* line 145, ../sass/main.scss */
   .main-content {
     margin-left: 60px;
     margin-right: 60px;
   }
 }
 @media only screen and (min-width: 1260px) {
-  /* line 139, ../sass/main.scss */
+  /* line 145, ../sass/main.scss */
   .main-content {
     width: 1140px;
     margin: auto;
@@ -300,97 +306,148 @@ body, html {
 
 /* line 1, ../sass/_home.scss */
 #home-content {
-  padding-top: 140px;
   opacity: 0;
   -webkit-transition: all, 1s;
   -moz-transition: all, 1s;
   -o-transition: all, 1s;
   transition: all, 1s;
 }
-/* line 8, ../sass/_home.scss */
+@media only screen and (max-width: 320px) {
+  /* line 1, ../sass/_home.scss */
+  #home-content {
+    padding-top: 60px;
+  }
+}
+@media only screen and (min-width: 321px) and (max-width: 1023px) {
+  /* line 1, ../sass/_home.scss */
+  #home-content {
+    padding-top: 80px;
+  }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1259px) {
+  /* line 1, ../sass/_home.scss */
+  #home-content {
+    padding-top: 140px;
+  }
+}
+@media only screen and (min-width: 1260px) {
+  /* line 1, ../sass/_home.scss */
+  #home-content {
+    padding-top: 140px;
+  }
+}
+/* line 20, ../sass/_home.scss */
 #home-content ul.posts li.post {
   margin-bottom: 70px;
 }
 @media only screen and (max-width: 320px) {
-  /* line 8, ../sass/_home.scss */
+  /* line 20, ../sass/_home.scss */
   #home-content ul.posts li.post {
     font-size: 24px;
   }
 }
 @media only screen and (min-width: 321px) and (max-width: 1023px) {
-  /* line 8, ../sass/_home.scss */
+  /* line 20, ../sass/_home.scss */
   #home-content ul.posts li.post {
     font-size: 32px;
   }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1259px) {
-  /* line 8, ../sass/_home.scss */
+  /* line 20, ../sass/_home.scss */
   #home-content ul.posts li.post {
     font-size: 32px;
   }
 }
 @media only screen and (min-width: 1260px) {
-  /* line 8, ../sass/_home.scss */
+  /* line 20, ../sass/_home.scss */
   #home-content ul.posts li.post {
     font-size: 32px;
   }
 }
-/* line 16, ../sass/_home.scss */
+/* line 28, ../sass/_home.scss */
 #home-content ul.posts li.post a {
   text-decoration: none;
   font-weight: 800;
   color: #333332;
 }
-/* line 21, ../sass/_home.scss */
+/* line 33, ../sass/_home.scss */
 #home-content ul.posts li.post a:hover {
   text-decoration: line-through;
 }
 
 /* line 3, ../sass/_post.scss */
 #post-content {
-  padding-top: 100px;
+  opacity: 0;
+  -webkit-transition: all, 1s;
+  -moz-transition: all, 1s;
+  -o-transition: all, 1s;
+  transition: all, 1s;
 }
-/* line 6, ../sass/_post.scss */
+@media only screen and (max-width: 320px) {
+  /* line 3, ../sass/_post.scss */
+  #post-content {
+    padding-top: 40px;
+  }
+}
+@media only screen and (min-width: 321px) and (max-width: 1023px) {
+  /* line 3, ../sass/_post.scss */
+  #post-content {
+    padding-top: 60px;
+  }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1259px) {
+  /* line 3, ../sass/_post.scss */
+  #post-content {
+    padding-top: 100px;
+  }
+}
+@media only screen and (min-width: 1260px) {
+  /* line 3, ../sass/_post.scss */
+  #post-content {
+    padding-top: 100px;
+  }
+}
+/* line 21, ../sass/_post.scss */
 #post-content .title {
   margin-bottom: 80px;
 }
-/* line 9, ../sass/_post.scss */
+/* line 24, ../sass/_post.scss */
 #post-content .title h2 {
   font-weight: 800;
   font-size: 32px;
   margin-bottom: 10px;
 }
-/* line 15, ../sass/_post.scss */
+/* line 30, ../sass/_post.scss */
 #post-content .title p {
   font-size: 16px;
   font-weight: 300;
 }
-/* line 22, ../sass/_post.scss */
+/* line 37, ../sass/_post.scss */
 #post-content .post h3, #post-content .post h2 {
   font-size: 22px;
   font-weight: 800;
   margin-bottom: 30px;
 }
-/* line 28, ../sass/_post.scss */
+/* line 43, ../sass/_post.scss */
 #post-content .post p {
   font-weight: 300;
   font-size: 16px;
   line-height: 1.5em;
   margin-bottom: 50px;
 }
-/* line 34, ../sass/_post.scss */
+/* line 49, ../sass/_post.scss */
 #post-content .post p a {
   text-decoration: none;
   color: #b3b3b1;
 }
-/* line 46, ../sass/_post.scss */
+/* line 61, ../sass/_post.scss */
 #post-content .post .highlight {
   background: rgba(0, 0, 0, 0.05);
   font-weight: 300;
   padding: 30px;
   margin-bottom: 50px;
 }
-/* line 54, ../sass/_post.scss */
+/* line 69, ../sass/_post.scss */
 #post-content .post .highlight pre code span {
   line-height: 1.5em;
 }

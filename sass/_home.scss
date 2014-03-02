@@ -1,5 +1,17 @@
 #home-content{
-  padding-top: 140px;
+
+  @include respond-to(mobile-screens){
+    padding-top: 60px;
+  }
+  @include respond-to(medium-screens){
+    padding-top: 80px;
+  }
+  @include respond-to(wide-screens){
+    padding-top: 140px;
+  }
+  @include respond-to(max-screens){
+    padding-top: 140px;
+  }
   opacity: 0;
 
   @include transition( all, 1s);

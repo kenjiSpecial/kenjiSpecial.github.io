@@ -30,10 +30,34 @@
         <div id="main-nav-wrapper">
             <div id="nav-list">
                 <ul id="nav-ul">
-                    <li id="li-home"><a href="/" data-attribute="home">HOME</a></li>
-                    <li id="li-about"><a href="/about" data-attribute="about">ABOUT</a></li>
-                    <li id="li-category"><a href="/category" data-attribute="category">CATEGORY</a></li>
-                    <li id="li-archive"><a href="/archive" data-attribute="archive">ARCHIVE</a></li>
+                    <li id="li-home">
+                        {% if page.tags == 'home' %}
+                            <span class="selected">HOME</span>
+                        {% else %}
+                            <a href="/" data-attribute="home" class="selected">HOME</a>
+                        {% endif %}
+                    </li>
+                    <li id="li-about">
+                        {% if page.tags == 'about' %}
+                            <span class="selected">ABOUT</span>
+                        {% else %}
+                            <a href="/about" data-attribute="about">ABOUT</a>
+                        {% endif %}
+                    </li>
+                    <li id="li-category">
+                        {% if page.tags == 'category' %}
+                            <span class="selected">CATEGORY</span>
+                        {% else %}
+                            <a href="/category" data-attribute="category">CATEGORY</a>
+                        {% endif %}
+                    </li>
+                    <li id="li-archive">
+                        {% if page.tags == 'archive' %}
+                            <span class="selected">ARCHIVE</span>
+                        {% else %}
+                            <a href="/archive" data-attribute="archive">ARCHIVE</a>
+                        {% endif %}
+                    </li>
                 </ul>
             </div>
 

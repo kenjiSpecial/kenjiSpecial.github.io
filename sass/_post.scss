@@ -1,7 +1,22 @@
 $linkColor: #B3B3B1;
 
 #post-content{
-  padding-top: 100px;
+
+  @include respond-to(mobile-screens){
+    padding-top: 40px;
+  }
+  @include respond-to(medium-screens){
+    padding-top: 60px;
+  }
+  @include respond-to(wide-screens){
+    padding-top: 100px;
+  }
+  @include respond-to(max-screens){
+    padding-top: 100px;
+  }
+
+  opacity: 0;
+  @include transition( all, 1s);
 
   .title{
     margin-bottom: 80px;

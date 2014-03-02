@@ -107,6 +107,12 @@ body, html {
               }
             }
 
+            span {
+              color: #ffffff;
+              cursor: default;
+              text-decoration: line-through;
+            }
+
             a {
               text-decoration: none;
               color: #ffffff;
@@ -137,28 +143,10 @@ body, html {
 
 
   .main-content{
-    //width: 100%;
-
-    //margin-top: 100px;
-
-    @include respond-to(mobile-screens){
-      margin-left: 5px;
-      margin-right: 5px;
-    }
-    @include respond-to(medium-screens){
-      margin-left: 30px;
-      margin-right: 30px;
-    }
-    @include respond-to(wide-screens){
-      margin-left: 60px;
-      margin-right: 60px;
-    }
-
-    @include respond-to(max-screens){
-      width: 1140px;
-      margin: auto;
-    }
-
+    @include respond-to(mobile-screens){ margin-left: 10px; margin-right: 10px;}
+    @include respond-to(medium-screens){ margin-left: 30px; margin-right: 30px; }
+    @include respond-to(wide-screens){ margin-left: 60px; margin-right: 60px; }
+    @include respond-to(max-screens){ width: 1140px; margin: auto; }
   }
 
 
