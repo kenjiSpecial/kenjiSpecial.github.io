@@ -2,7 +2,7 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 17, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 17, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -24,45 +24,45 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 22, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 22, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html {
   line-height: 1;
 }
 
-/* line 24, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 24, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 26, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 26, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 28, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 28, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
 }
 
-/* line 30, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 30, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q, blockquote {
   quotes: none;
 }
-/* line 103, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 103, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none;
 }
 
-/* line 32, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 32, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 a img {
   border: none;
 }
 
-/* line 116, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 116, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
@@ -120,14 +120,14 @@ body, html {
     height: 50px;
   }
 }
-@media only screen and (min-width: 1024px) and (max-width: 1259px) {
+@media only screen and (min-width: 1024px) and (max-width: 1139px) {
   /* line 45, ../sass/main.scss */
   #main-nav.close {
     width: 100%;
     height: 60px;
   }
 }
-@media only screen and (min-width: 1260px) {
+@media only screen and (min-width: 1140px) {
   /* line 45, ../sass/main.scss */
   #main-nav.close {
     width: 100%;
@@ -247,7 +247,7 @@ body, html {
     position: absolute;
   }
 }
-@media only screen and (min-width: 1024px) and (max-width: 1259px) {
+@media only screen and (min-width: 1024px) and (max-width: 1139px) {
   /* line 130, ../sass/main.scss */
   #nav-icon {
     top: 30px;
@@ -255,7 +255,7 @@ body, html {
     position: absolute;
   }
 }
-@media only screen and (min-width: 1260px) {
+@media only screen and (min-width: 1140px) {
   /* line 130, ../sass/main.scss */
   #nav-icon {
     width: 100%;
@@ -265,7 +265,7 @@ body, html {
   }
   /* line 137, ../sass/main.scss */
   #nav-icon .max-width-container {
-    width: 1140px;
+    width: 1020px;
     margin: auto;
   }
   /* line 138, ../sass/main.scss */
@@ -289,17 +289,17 @@ body, html {
     margin-right: 30px;
   }
 }
-@media only screen and (min-width: 1024px) and (max-width: 1259px) {
+@media only screen and (min-width: 1024px) and (max-width: 1139px) {
   /* line 145, ../sass/main.scss */
   .main-content {
     margin-left: 60px;
     margin-right: 60px;
   }
 }
-@media only screen and (min-width: 1260px) {
+@media only screen and (min-width: 1140px) {
   /* line 145, ../sass/main.scss */
   .main-content {
-    width: 1140px;
+    width: 1020px;
     margin: auto;
   }
 }
@@ -324,13 +324,13 @@ body, html {
     padding-top: 80px;
   }
 }
-@media only screen and (min-width: 1024px) and (max-width: 1259px) {
+@media only screen and (min-width: 1024px) and (max-width: 1139px) {
   /* line 1, ../sass/_home.scss */
   #home-content {
     padding-top: 140px;
   }
 }
-@media only screen and (min-width: 1260px) {
+@media only screen and (min-width: 1140px) {
   /* line 1, ../sass/_home.scss */
   #home-content {
     padding-top: 140px;
@@ -352,13 +352,13 @@ body, html {
     font-size: 32px;
   }
 }
-@media only screen and (min-width: 1024px) and (max-width: 1259px) {
+@media only screen and (min-width: 1024px) and (max-width: 1139px) {
   /* line 20, ../sass/_home.scss */
   #home-content ul.posts li.post {
     font-size: 32px;
   }
 }
-@media only screen and (min-width: 1260px) {
+@media only screen and (min-width: 1140px) {
   /* line 20, ../sass/_home.scss */
   #home-content ul.posts li.post {
     font-size: 32px;
@@ -378,10 +378,10 @@ body, html {
 /* line 3, ../sass/_post.scss */
 #post-content {
   opacity: 0;
-  -webkit-transition: all, 1s;
-  -moz-transition: all, 1s;
-  -o-transition: all, 1s;
-  transition: all, 1s;
+  -webkit-transition: opacity, 1s;
+  -moz-transition: opacity, 1s;
+  -o-transition: opacity, 1s;
+  transition: opacity, 1s;
 }
 @media only screen and (max-width: 320px) {
   /* line 3, ../sass/_post.scss */
@@ -395,13 +395,13 @@ body, html {
     padding-top: 60px;
   }
 }
-@media only screen and (min-width: 1024px) and (max-width: 1259px) {
+@media only screen and (min-width: 1024px) and (max-width: 1139px) {
   /* line 3, ../sass/_post.scss */
   #post-content {
     padding-top: 100px;
   }
 }
-@media only screen and (min-width: 1260px) {
+@media only screen and (min-width: 1140px) {
   /* line 3, ../sass/_post.scss */
   #post-content {
     padding-top: 100px;
@@ -428,17 +428,17 @@ body, html {
 }
 /* line 31, ../sass/_post.scss */
 #post-content .post h3, #post-content .post h2, #post-content .post h1 {
-  margin-top: 60px;
+  margin-top: 120px;
   font-size: 22px;
   font-weight: 800;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 /* line 38, ../sass/_post.scss */
 #post-content .post p {
   font-weight: 300;
   font-size: 16px;
   line-height: 1.5em;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 /* line 44, ../sass/_post.scss */
 #post-content .post p a {
@@ -460,18 +460,18 @@ body, html {
 /* line 60, ../sass/_post.scss */
 #post-content .post p img {
   margin-top: 10px;
-  width: 100%;
+  max-width: 940px;
   height: auto;
   margin-bottom: -20px;
 }
-/* line 69, ../sass/_post.scss */
+/* line 70, ../sass/_post.scss */
 #post-content .post .highlight {
   background: rgba(0, 0, 0, 0.05);
   font-weight: 300;
   padding: 30px;
   margin-bottom: 50px;
 }
-/* line 77, ../sass/_post.scss */
+/* line 78, ../sass/_post.scss */
 #post-content .post .highlight pre code span {
   line-height: 1.5em;
 }
@@ -517,7 +517,7 @@ body, html {
     padding-right: 30px;
   }
 }
-@media only screen and (min-width: 1024px) and (max-width: 1259px) {
+@media only screen and (min-width: 1024px) and (max-width: 1139px) {
   /* line 3, ../sass/_about.scss */
   #about-content {
     padding-left: 60px;
