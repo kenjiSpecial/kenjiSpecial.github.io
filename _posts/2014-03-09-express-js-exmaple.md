@@ -14,9 +14,13 @@ categories: kenji
 - [Day 27: Restify--Build Correct REST Web Services in Node.js](https://www.openshift.com/blogs/day-27-restify-build-correct-rest-web-services-in-nodejs)
 
 
+
 ##Github
 - [Skeleton - Node Express MongoDB Bootstrap Passpor -][skeleton]
 - [Nodecellar - Sample application built with Backbone.js, Twitter Bootstrap, Node.js, Express, MongoDB -](https://github.com/ccoenraets/nodecellar)
+- [expressjsguide - Express.js Guide code examples -](https://github.com/azat-co/expressjsguide)
+- [express js to-do app](https://github.com/azat-co/todo-express)
+- [Instagram Gallery: Storify API example written in Node.js](https://github.com/azat-co/sfy-gallery)
 
 
 [sample-node]: http://blog.ijasoneverett.com/2013/03/a-sample-app-with-node-js-express-and-mongodb-part-1/
