@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Express js examples"
-date:   2014-03-02
+date:   2014-03-09
 categories: kenji
 ---
 
