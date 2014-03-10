@@ -433,45 +433,61 @@ body, html {
   font-weight: 800;
   margin-bottom: 30px;
 }
-/* line 38, ../sass/_post.scss */
+/* line 39, ../sass/_post.scss */
+#post-content .post ul li {
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-bottom: 8px;
+}
+/* line 44, ../sass/_post.scss */
+#post-content .post ul li a {
+  text-decoration: none;
+  font-weight: 400;
+  color: #b3b3b1;
+}
+/* line 48, ../sass/_post.scss */
+#post-content .post ul li a:hover {
+  text-decoration: line-through;
+}
+/* line 55, ../sass/_post.scss */
 #post-content .post p {
   font-weight: 300;
   font-size: 16px;
   line-height: 1.5em;
   margin-bottom: 30px;
 }
-/* line 44, ../sass/_post.scss */
+/* line 61, ../sass/_post.scss */
 #post-content .post p a {
   font-weight: 400;
   text-decoration: none;
   color: #b3b3b1;
 }
-/* line 48, ../sass/_post.scss */
+/* line 65, ../sass/_post.scss */
 #post-content .post p a:hover {
   text-decoration: line-through;
 }
-/* line 53, ../sass/_post.scss */
+/* line 70, ../sass/_post.scss */
 #post-content .post p code {
   color: #666666;
   font-weight: 800;
   margin-left: 5px;
   margin-right: 5px;
 }
-/* line 60, ../sass/_post.scss */
+/* line 77, ../sass/_post.scss */
 #post-content .post p img {
   margin-top: 10px;
   width: 100%;
   height: auto;
   margin-bottom: -20px;
 }
-/* line 69, ../sass/_post.scss */
+/* line 86, ../sass/_post.scss */
 #post-content .post .highlight {
   background: rgba(0, 0, 0, 0.05);
   font-weight: 300;
   padding: 30px;
   margin-bottom: 50px;
 }
-/* line 77, ../sass/_post.scss */
+/* line 94, ../sass/_post.scss */
 #post-content .post .highlight pre code span {
   line-height: 1.5em;
 }
