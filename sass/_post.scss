@@ -8,7 +8,7 @@ $linkColor: #B3B3B1;
   @include respond-to(max-screens)   { padding-top: 100px; }
 
   opacity: 0;
-  @include transition( opacity, 1s);
+  @include transition( opacity, 0.5s);
 
   .title{
     margin-bottom: 80px;
@@ -26,6 +26,15 @@ $linkColor: #B3B3B1;
   }
 
   .post{
+
+    .wrapper{
+      min-width: 300px;
+      width: 100%;
+      canvas{
+        width: 100%;
+      }
+    }
+
     margin-bottom: 100px;
 
     h3, h2, h1{
@@ -67,16 +76,22 @@ $linkColor: #B3B3B1;
         }
       }
 
+      pre{
+        width: 100%;
+      }
+
       code{
         color: #666666;
         font-weight : 800;
         margin-left : 5px;
         margin-right: 5px;
+        width: 100%;
       }
 
       img{
         margin-top: 10px;
-        max-width: 940px;
+        max-width: 600px;
+        width: 100%;
 
         height: auto;
         margin-bottom: -20px;
@@ -86,14 +101,24 @@ $linkColor: #B3B3B1;
 
     .highlight{
       background: rgba(0, 0, 0, 0.05);
-      font-weight: 300;
-      padding: 30px;
+      font-weight: 400;
+      
+      @include respond-to(mobile-screens){ padding: 10px; }
+      @include respond-to(medium-screens){ padding: 20px; }
+      @include respond-to(wide-screens)  { padding: 30px; }
+      @include respond-to(max-screens)   { padding: 30px; }
       margin-bottom: 50px;
 
       pre{
+        width: 100%;
         code{
+          width: 100%;
+          overflow: auto;
+          word-wrap:break-word;
+
           span{
-            line-height: 1.5em;
+            font-size: 14px;
+            line-height: 1.4em;
           }
         }
       }

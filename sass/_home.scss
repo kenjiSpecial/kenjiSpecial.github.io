@@ -14,11 +14,11 @@
   }
   opacity: 0;
 
-  @include transition( all, 1s);
+  @include transition( opacity, 0.5s);
 
   ul.posts{
     li.post{
-      margin-bottom: 70px;
+      margin-bottom: 120px;
 
       @include respond-to(mobile-screens){ font-size: 24px; }
       @include respond-to(medium-screens){ font-size: 32px; }
