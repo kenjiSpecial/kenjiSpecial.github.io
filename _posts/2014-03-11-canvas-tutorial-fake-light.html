@@ -267,11 +267,15 @@ function pointOverTile( x, y ){
         mouse.y = canvas.height/2;
       }
       
-
-      console.log(mouse);
-
       ctx.save();
       ctx.fillStyle="rgb(0,0,0)";
+      ctx.fillRect(0,0,canvas.width,canvas.height);
+
+      //Lower light.
+      var grd2 = ctx.createRadialGradient(mouse.x,mouse.y,5,mouse.x,mouse.y,canvas.width);
+      grd2.addColorStop(0,"#3a3a3a");
+      grd2.addColorStop(.8,"transparent");
+      ctx.fillStyle=grd2;
       ctx.fillRect(0,0,canvas.width,canvas.height);
 
       drawLight(mouse.x,mouse.y,canvas.width);
