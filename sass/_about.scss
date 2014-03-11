@@ -9,7 +9,7 @@ $linkColor: #B3B3B1;
   @include justifyContent(center);
   @include size(100%);
 
-  @include transition( all, 0.5s);
+  @include transition( opacity, 0.5s);
   opacity: 0;
 
 
