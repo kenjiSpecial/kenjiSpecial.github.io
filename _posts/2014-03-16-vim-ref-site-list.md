@@ -10,11 +10,11 @@ I started to use vim and vim plugin for webstorm.
 The condept about vim is not new, but greatest geek recommend to use it for more productive.
 
 ## Vim Cheat Sheet
-- [Beginner's guide to Vi Improved (vim)](http://newbiedoc.sourceforge.net/text_editing/vim.html)
 - [VIM](http://rtorruellas.com/vim-cheat-sheet/)
+- [Vim Commands Cheat Sheet](http://www.fprintf.net/vimCheatSheet.html)
 
 ## Beginer for Vim
-
+- [Beginner's guide to Vi Improved (vim)](http://newbiedoc.sourceforge.net/text_editing/vim.html)
 - [Getting started with vim.](http://bilalquadri.com/blog/2012/12/17/getting-started-with-vim/)
 - [Japanese blog about vim#1](http://www.curiosity-drives.me/2012/01/rails.html)
 - [Japanese blog about vim#2](http://vim-users.jp/2011/04/hack215/)
