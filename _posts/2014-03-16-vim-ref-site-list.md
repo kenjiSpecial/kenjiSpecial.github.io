@@ -2,7 +2,7 @@
 layout: post
 title:  "Vim referrence sites when I use vim"
 date:   2014-03-16
-categories: kenji
+categories: [vim]
 ---
 
 ## Vim
@@ -21,6 +21,5 @@ The condept about vim is not new, but greatest geek recommend to use it for more
 
 ## Plugin I installed so far
 
-- [vim-javascript](https://github.com/pangloss/vim-javascript) 
+- [vim-javascript](https://github.com/pangloss/vim-javascript)
 - [emmet-vim](https://github.com/mattn/emmet-vim/)
-

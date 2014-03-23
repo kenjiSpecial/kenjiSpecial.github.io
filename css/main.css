@@ -1,8 +1,9 @@
+@charset "UTF-8";
 /* Welcome to Compass.
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 17, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 17, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -24,45 +25,45 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 22, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 22, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html {
   line-height: 1;
 }
 
-/* line 24, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 24, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 26, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 26, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 28, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 28, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
 }
 
-/* line 30, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 30, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q, blockquote {
   quotes: none;
 }
-/* line 103, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 103, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none;
 }
 
-/* line 32, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 32, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 a img {
   border: none;
 }
 
-/* line 116, ../../../.rvm/gems/ruby-1.9.3-p448/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 116, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
@@ -411,75 +412,77 @@ body, html {
 #post-content .title {
   margin-bottom: 80px;
 }
-/* line 16, ../sass/_post.scss */
+/* line 17, ../sass/_post.scss */
 #post-content .title h2 {
   font-weight: 800;
   font-size: 32px;
   margin-bottom: 10px;
 }
-/* line 22, ../sass/_post.scss */
+/* line 23, ../sass/_post.scss */
 #post-content .title p {
   font-size: 16px;
   font-weight: 300;
 }
-/* line 28, ../sass/_post.scss */
+/* line 29, ../sass/_post.scss */
 #post-content .post {
   margin-bottom: 100px;
 }
-/* line 30, ../sass/_post.scss */
+/* line 31, ../sass/_post.scss */
 #post-content .post .wrapper {
   min-width: 300px;
   width: 100%;
 }
-/* line 33, ../sass/_post.scss */
+/* line 34, ../sass/_post.scss */
 #post-content .post .wrapper canvas {
   width: 100%;
 }
-/* line 40, ../sass/_post.scss */
+/* line 41, ../sass/_post.scss */
 #post-content .post h3, #post-content .post h2, #post-content .post h1 {
   margin-top: 120px;
   font-size: 22px;
   font-weight: 800;
   margin-bottom: 40px;
 }
-/* line 48, ../sass/_post.scss */
+/* line 49, ../sass/_post.scss */
 #post-content .post ul li {
   font-size: 16px;
-  line-height: 1.5em;
   margin-bottom: 8px;
+  font-weight: 300;
+  line-height: 1.2em;
 }
-/* line 53, ../sass/_post.scss */
+/* line 55, ../sass/_post.scss */
 #post-content .post ul li a {
+  line-height: 1.5em;
   text-decoration: none;
   font-weight: 400;
   color: #b3b3b1;
 }
-/* line 57, ../sass/_post.scss */
+/* line 60, ../sass/_post.scss */
 #post-content .post ul li a:hover {
   text-decoration: line-through;
 }
-/* line 64, ../sass/_post.scss */
+/* line 67, ../sass/_post.scss */
 #post-content .post p {
   font-weight: 300;
   font-size: 16px;
   line-height: 1.5em;
   margin-bottom: 40px;
 }
-/* line 70, ../sass/_post.scss */
+/* line 73, ../sass/_post.scss */
 #post-content .post p a {
   font-weight: 400;
   text-decoration: none;
   color: #b3b3b1;
 }
-/* line 74, ../sass/_post.scss */
+/* line 77, ../sass/_post.scss */
 #post-content .post p a:hover {
   text-decoration: line-through;
 }
-/* line 79, ../sass/_post.scss */
+/* line 82, ../sass/_post.scss */
 #post-content .post p pre {
   width: 100%;
 }
-/* line 83, ../sass/_post.scss */
+/* line 86, ../sass/_post.scss */
 #post-content .post p code {
   color: #666666;
   font-weight: 800;
@@ -487,7 +490,7 @@ body, html {
   margin-right: 5px;
   width: 100%;
 }
-/* line 91, ../sass/_post.scss */
+/* line 94, ../sass/_post.scss */
 #post-content .post p img {
   margin-top: 10px;
   max-width: 600px;
@@ -495,47 +498,51 @@ body, html {
   height: auto;
   margin-bottom: -20px;
 }
-/* line 102, ../sass/_post.scss */
+/* line 103, ../sass/_post.scss */
+#post-content .post p strong {
+  font-weight: 800;
+}
+/* line 109, ../sass/_post.scss */
 #post-content .post .highlight {
   background: rgba(0, 0, 0, 0.05);
   font-weight: 400;
   margin-bottom: 50px;
 }
 @media only screen and (max-width: 320px) {
-  /* line 102, ../sass/_post.scss */
+  /* line 109, ../sass/_post.scss */
   #post-content .post .highlight {
     padding: 10px;
   }
 }
 @media only screen and (min-width: 321px) and (max-width: 1023px) {
-  /* line 102, ../sass/_post.scss */
+  /* line 109, ../sass/_post.scss */
   #post-content .post .highlight {
     padding: 20px;
   }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1139px) {
-  /* line 102, ../sass/_post.scss */
+  /* line 109, ../sass/_post.scss */
   #post-content .post .highlight {
     padding: 30px;
   }
 }
 @media only screen and (min-width: 1140px) {
-  /* line 102, ../sass/_post.scss */
+  /* line 109, ../sass/_post.scss */
   #post-content .post .highlight {
     padding: 30px;
   }
 }
-/* line 112, ../sass/_post.scss */
+/* line 119, ../sass/_post.scss */
 #post-content .post .highlight pre {
   width: 100%;
 }
-/* line 114, ../sass/_post.scss */
+/* line 121, ../sass/_post.scss */
 #post-content .post .highlight pre code {
   width: 100%;
   overflow: auto;
   word-wrap: break-word;
 }
-/* line 119, ../sass/_post.scss */
+/* line 126, ../sass/_post.scss */
 #post-content .post .highlight pre code span {
   font-size: 14px;
   line-height: 1.4em;
@@ -612,3 +619,60 @@ body, html {
 #about-content .sns a:hover {
   text-decoration: line-through;
 }
+
+@font-face {
+  font-family: 'fontello';
+  src: url("../font/fontello.eot?9262412");
+  src: url("../font/fontello.eot?9262412#iefix") format("embedded-opentype"), url("../font/fontello.woff?9262412") format("woff"), url("../font/fontello.ttf?9262412") format("truetype"), url("../font/fontello.svg?9262412#fontello") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?9262412#fontello') format('svg');
+  }
+}
+*/
+/* line 22, ../sass/_font.scss */
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+/* line 53, ../sass/_font.scss */
+.icon-facebook-rect:before {
+  content: '\e800';
+}
+
+/* '' */
+/* line 54, ../sass/_font.scss */
+.icon-twitter-bird:before {
+  content: '\e801';
+}
+
+/* '' */

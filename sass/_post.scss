@@ -12,6 +12,7 @@ $linkColor: #B3B3B1;
 
   .title{
     margin-bottom: 80px;
+	
 
     h2{
       font-weight : 800;
@@ -47,10 +48,12 @@ $linkColor: #B3B3B1;
     ul{
       li{
         font-size: 16px;
-        line-height: 1.5em;
         margin-bottom: 8px;
+		font-weight: 300;
+		line-height: 1.2em;
 
         a{
+		  line-height: 1.5em;
           text-decoration: none;
           font-weight: 400;
           color: $linkColor;
@@ -96,6 +99,10 @@ $linkColor: #B3B3B1;
         height: auto;
         margin-bottom: -20px;
       }
+
+	  strong{
+		  font-weight: 800;
+	  }
 
     }
 

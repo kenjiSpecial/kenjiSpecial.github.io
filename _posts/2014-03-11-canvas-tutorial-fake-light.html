@@ -2,7 +2,7 @@
 layout: post
 title:  "Canvas Tutorial Fake Light"
 date:   2014-03-11
-categories: javascript, canvas
+categories: [javascript, canvas]
 ---
 
 <style>
@@ -56,7 +56,7 @@ categories: javascript, canvas
             if(map[y][x]!=0)
             {
               ctx1.fillRect(x*tile.x,y*tile.y,tile.x,tile.y);
-            } 
+            }
           }
         }
     };
@@ -101,7 +101,7 @@ function draw(){
         if(map[y][x]!=0)
         {
           ctx1.fillRect(x*tile.x,y*tile.y,tile.x,tile.y);
-        } 
+        }
       }
     }
 };
@@ -178,7 +178,7 @@ function pointOverTile( x, y ){
       ctx.fillRect(x-1,y-1,2,2);
       ctx.fillStyle = oc;
       oc=null;
-    }            
+    }
 
     function pointOverTile(x,y)
     {
@@ -226,7 +226,7 @@ function pointOverTile( x, y ){
         y = oy+Math.sin(a)*r;
         if(pointOverTile(x,y))
         {
-          
+
           break;
         }
         r++;
@@ -247,7 +247,7 @@ function pointOverTile( x, y ){
       var verts = new Array(360);
       for(var i=0;i<359;i++)
       {
-        verts[i] = castRay(ox,oy,i,radius);       
+        verts[i] = castRay(ox,oy,i,radius);
       }
       var grd = ctx.createRadialGradient(ox,oy,5,ox,oy,radius/2);
       grd.addColorStop(0,"#fff");
@@ -266,7 +266,7 @@ function pointOverTile( x, y ){
         mouse.x = canvas.width/2;
         mouse.y = canvas.height/2;
       }
-      
+
       ctx.save();
       ctx.fillStyle="rgb(0,0,0)";
       ctx.fillRect(0,0,canvas.width,canvas.height);
@@ -288,7 +288,7 @@ function pointOverTile( x, y ){
             if(map[y][x]!=0)
             {
               ctx.fillRect(x*tile.x,y*tile.y,tile.x,tile.y);
-            } 
+            }
           }
         }
 
@@ -313,7 +313,7 @@ function drawPointX2(x,y,color){
   ctx.fillRect(x-1,y-1,2,2);
   ctx.fillStyle = oc;
   oc=null;
-}            
+}
 
 function drawPolygon(verts,color){
   if(verts.length<3) return;
@@ -339,7 +339,7 @@ function castRay(ox,oy,angle,dist) {
     x = ox+Math.cos(a)*r;
     y = oy+Math.sin(a)*r;
     if(pointOverTile(x,y)){
-      
+
       break;
     }
     r++;
@@ -358,7 +358,7 @@ function drawLight(ox,oy,radius){
   if(pointOverTile(ox,oy)) return;
   var verts = new Array(360);
   for(var i=0;i<359;i++){
-    verts[i] = castRay(ox,oy,i,radius);       
+    verts[i] = castRay(ox,oy,i,radius);
   }
   var grd = ctx.createRadialGradient(ox,oy,5,ox,oy,radius/2);
   grd.addColorStop(0,"#fff");
@@ -369,4 +369,3 @@ function drawLight(ox,oy,radius){
   grd = verts = null;
 }
 {% endhighlight %}
-

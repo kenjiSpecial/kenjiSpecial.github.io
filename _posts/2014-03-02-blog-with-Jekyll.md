@@ -2,7 +2,7 @@
 layout: post
 title:  "Blog with Jekyll"
 date:   2014-03-02
-categories: kenji
+categories: [Jekyll]
 ---
 
 ##What is Jekyll?
@@ -28,7 +28,7 @@ Simple editor for cms is text eidtor like `Sublime Text App`. It looks simple an
 In Jekyll, you can make you text in your content. You can use your favorite editor or IDE. I don't need to worried about annoying wordpress editor anymore.
 
 
-	
+
 ##How do you create?
 
 ##Design about my blog with Jekyll.

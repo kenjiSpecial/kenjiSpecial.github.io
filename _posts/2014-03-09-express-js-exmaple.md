@@ -2,7 +2,7 @@
 layout: post
 title:  "Express js examples"
 date:   2014-03-09
-categories: kenji
+categories: [Express.js, node.js, JavaScript]
 ---
 
 ##Tutorial
