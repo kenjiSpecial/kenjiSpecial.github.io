@@ -28,3 +28,14 @@ Finally
 {% highlight ruby %}
  clisp
 {% endhighlight %}
+
+
+## OR
+
+The easiest way to use clisp is just add the lines below to .zshrc.
+
+{% highlight ruby %}
+export PATH=$PATH:/opt/local/bin
+export MANPATH=$MANPATH:/opt/local/share/man
+export INFOPATH=$INFOPATH:/opt/local/share/info
+{% endhighlight %}
