@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
+
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -27,57 +27,18 @@
 <body>
 <main id="main-wrapper">
 
-    <div id="main-nav" class="close">
-        <div id="main-nav-wrapper">
-            <div id="nav-list">
-                <ul id="nav-ul">
-                    <li id="li-home">
-                        {% if page.tags == 'home' %}
-                            <span class="selected">HOME</span>
-                        {% else %}
-                            <a href="/" data-attribute="home" class="selected">HOME</a>
-                        {% endif %}
-                    </li>
-                    <li id="li-about">
-                        {% if page.tags == 'about' %}
-                            <span class="selected">ABOUT</span>
-                        {% else %}
-                            <a href="/about" data-attribute="about">ABOUT</a>
-                        {% endif %}
-                    </li>
-                    <li id="li-category">
-                        {% if page.tags == 'category' %}
-                            <span class="selected">CATEGORY</span>
-                        {% else %}
-                            <a href="/category" data-attribute="category">CATEGORY</a>
-                        {% endif %}
-                    </li>
-                    <li id="li-archive">
-                        {% if page.tags == 'archive' %}
-                            <span class="selected">ARCHIVE</span>
-                        {% else %}
-                            <a href="/archive" data-attribute="archive">ARCHIVE</a>
-                        {% endif %}
-                    </li>
-                </ul>
-            </div>
-
-            <div id="nav-icon">
-                <div class="max-width-container">
-                    <svg id="nav-icon-svg"></svg>
-                </div>
-            </div>
-
-        </div>
-    </div>
+    {% include header.html %}
 
     {{ content }}
 
 </main>
 
 <script src="/scripts/views/nav.js"></script>
+
 {% if page.tags %}
-<script src="/scripts/views/{{ page.tags }}.js"></script>
+    {% for tag in page.tags %}
+        <script src="/scripts/views/{{ tag }}.js"></script>
+    {% endfor %}
 {% endif %}
 
 

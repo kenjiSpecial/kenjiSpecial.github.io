@@ -1,0 +1,10 @@
+<html>
+<title>\{\{ page.title \}\}</title>
+<body>
+<ul>
+{% for post in page.posts %}
+<li>{{ post.date }} &raquo; {{ post.title }}</li>
+{% endfor %}
+</ul>
+</body>
+</html>

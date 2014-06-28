@@ -26,6 +26,11 @@ body, html {
   color: $default-color;
 }
 
+.content-jp{
+    font-family: 'jp-font', sans-serif;
+    color : #666 !important;
+}
+
 #main-wrapper {
   @include size(100%);
   -ms-flex-preferred-size: auto;
@@ -130,12 +135,67 @@ body, html {
       #nav-icon {
         cursor: pointer;
 
-        @include respond-to(mobile-screens){ top: 10px; right: 10px; position: absolute;}
-        @include respond-to(medium-screens){ top: 20px; right: 30px; position: absolute;}
-        @include respond-to(wide-screens)  { top: 30px; right: 60px; position: absolute;}
+        #languages{
+          font-size: 18px;
+          span.language{
+            text-decoration: line-through;
+            @include transition( height, .6s);
+            .open &{
+                color: #ccc;
+            }
+          }
+          
+
+          a{
+            text-decoration: none; color: $default-color;
+            @include transition( color, .6s );
+            &:hover{
+              text-decoration: line-through;
+            }
+
+            .open &{
+              color: #ccc;
+            }
+          }
+
+        }
+
+        @include respond-to(mobile-screens){ top: 10px; right: 10px; position: absolute;
+            #languages{
+            position: absolute;
+            top: 3px;
+            right: 20px;
+            width: 80px;
+         }
+        }
+
+        @include respond-to(medium-screens){ top: 20px; right: 30px; position: absolute;
+          #languages{
+            position: absolute;
+            top: 3px;
+            right: 20px;
+            width: 80px;
+         }
+        }
+
+        @include respond-to(wide-screens)  {
+         top: 30px; right: 60px; position: absolute;
+         #languages{
+            position: absolute;
+            top: 3px;
+            right: 20px;
+            width: 80px;
+         }
+       }
         @include respond-to(max-screens)   { width: 100%; position: absolute; top: 0; left: 0;
           .max-width-container{ width: 1020px; margin: auto;
             svg{ float : right; margin-top : 30px; }
+
+            #languages{
+              float: right;
+              margin-top: 34px;
+              margin-right: 20px;
+            }
           }
         }
       }

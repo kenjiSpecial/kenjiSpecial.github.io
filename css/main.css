@@ -3,7 +3,7 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 17, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 17, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -25,45 +25,45 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 22, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 22, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html {
   line-height: 1;
 }
 
-/* line 24, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 24, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 26, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 26, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 28, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 28, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
 }
 
-/* line 30, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 30, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q, blockquote {
   quotes: none;
 }
-/* line 103, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 103, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none;
 }
 
-/* line 32, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 32, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 a img {
   border: none;
 }
 
-/* line 116, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 116, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
@@ -84,13 +84,19 @@ body, html {
 }
 
 /* line 29, ../sass/main.scss */
+.content-jp {
+  font-family: 'jp-font', sans-serif;
+  color: #666 !important;
+}
+
+/* line 34, ../sass/main.scss */
 #main-wrapper {
   width: 100%;
   height: 100%;
   -ms-flex-preferred-size: auto;
 }
 
-/* line 34, ../sass/main.scss */
+/* line 39, ../sass/main.scss */
 #main-nav {
   z-index: 10000;
   position: fixed;
@@ -102,48 +108,48 @@ body, html {
   -o-transition: height, 0.6s;
   transition: height, 0.6s;
 }
-/* line 43, ../sass/main.scss */
+/* line 48, ../sass/main.scss */
 #main-nav.open {
   width: 100%;
   height: 100%;
 }
 @media only screen and (max-width: 320px) {
-  /* line 45, ../sass/main.scss */
+  /* line 50, ../sass/main.scss */
   #main-nav.close {
     width: 100%;
     height: 35px;
   }
 }
 @media only screen and (min-width: 321px) and (max-width: 1023px) {
-  /* line 45, ../sass/main.scss */
+  /* line 50, ../sass/main.scss */
   #main-nav.close {
     width: 100%;
     height: 50px;
   }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1139px) {
-  /* line 45, ../sass/main.scss */
+  /* line 50, ../sass/main.scss */
   #main-nav.close {
     width: 100%;
     height: 60px;
   }
 }
 @media only screen and (min-width: 1140px) {
-  /* line 45, ../sass/main.scss */
+  /* line 50, ../sass/main.scss */
   #main-nav.close {
     width: 100%;
     height: 60px;
   }
 }
 
-/* line 55, ../sass/main.scss */
+/* line 60, ../sass/main.scss */
 #main-nav-wrapper {
   position: relative;
   width: 100%;
   height: 100%;
 }
 
-/* line 60, ../sass/main.scss */
+/* line 65, ../sass/main.scss */
 #nav-list {
   background: #212121;
   -webkit-transform: translate3d(0, 0, 0);
@@ -175,130 +181,190 @@ body, html {
   -o-perspective: 600px;
   perspective: 600px;
 }
-/* line 73, ../sass/main.scss */
+/* line 78, ../sass/main.scss */
 #nav-list .display-none {
   display: none;
 }
-/* line 77, ../sass/main.scss */
+/* line 82, ../sass/main.scss */
 .open #nav-list {
   opacity: .8;
 }
-/* line 81, ../sass/main.scss */
+/* line 86, ../sass/main.scss */
 .close #nav-list {
   opacity: 0;
 }
-/* line 87, ../sass/main.scss */
+/* line 92, ../sass/main.scss */
 #nav-list ul {
   -webkit-transform: translate3d(0, 0, 0);
   -webkit-backface-visibility: hidden;
   -webkit-perspective: 1000;
 }
-/* line 90, ../sass/main.scss */
+/* line 95, ../sass/main.scss */
 #nav-list ul li {
   margin: 40px 0;
   font-weight: 700;
   font-size: 48px;
   text-align: center;
 }
-/* line 96, ../sass/main.scss */
+/* line 101, ../sass/main.scss */
 #nav-list ul li:before {
   content: '';
   position: absolute;
   background: #ffff00;
   top: 0;
 }
-/* line 104, ../sass/main.scss */
+/* line 109, ../sass/main.scss */
 #nav-list ul li.selected a {
   text-decoration: line-through;
   cursor: default;
 }
-/* line 110, ../sass/main.scss */
+/* line 115, ../sass/main.scss */
 #nav-list ul li span {
   color: #ffffff;
   cursor: default;
   text-decoration: line-through;
 }
-/* line 116, ../sass/main.scss */
+/* line 121, ../sass/main.scss */
 #nav-list ul li a {
   text-decoration: none;
   color: #ffffff;
 }
-/* line 120, ../sass/main.scss */
+/* line 125, ../sass/main.scss */
 #nav-list ul li a:hover {
   text-decoration: line-through;
 }
 
-/* line 130, ../sass/main.scss */
+/* line 135, ../sass/main.scss */
 #nav-icon {
   cursor: pointer;
 }
+/* line 138, ../sass/main.scss */
+#nav-icon #languages {
+  font-size: 18px;
+}
+/* line 140, ../sass/main.scss */
+#nav-icon #languages span.language {
+  text-decoration: line-through;
+  -webkit-transition: height, 0.6s;
+  -moz-transition: height, 0.6s;
+  -o-transition: height, 0.6s;
+  transition: height, 0.6s;
+}
+/* line 143, ../sass/main.scss */
+.open #nav-icon #languages span.language {
+  color: #ccc;
+}
+/* line 149, ../sass/main.scss */
+#nav-icon #languages a {
+  text-decoration: none;
+  color: #333332;
+  -webkit-transition: color, 0.6s;
+  -moz-transition: color, 0.6s;
+  -o-transition: color, 0.6s;
+  transition: color, 0.6s;
+}
+/* line 152, ../sass/main.scss */
+#nav-icon #languages a:hover {
+  text-decoration: line-through;
+}
+/* line 156, ../sass/main.scss */
+.open #nav-icon #languages a {
+  color: #ccc;
+}
 @media only screen and (max-width: 320px) {
-  /* line 130, ../sass/main.scss */
+  /* line 135, ../sass/main.scss */
   #nav-icon {
     top: 10px;
     right: 10px;
     position: absolute;
   }
+  /* line 164, ../sass/main.scss */
+  #nav-icon #languages {
+    position: absolute;
+    top: 3px;
+    right: 20px;
+    width: 80px;
+  }
 }
 @media only screen and (min-width: 321px) and (max-width: 1023px) {
-  /* line 130, ../sass/main.scss */
+  /* line 135, ../sass/main.scss */
   #nav-icon {
     top: 20px;
     right: 30px;
     position: absolute;
   }
+  /* line 173, ../sass/main.scss */
+  #nav-icon #languages {
+    position: absolute;
+    top: 3px;
+    right: 20px;
+    width: 80px;
+  }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1139px) {
-  /* line 130, ../sass/main.scss */
+  /* line 135, ../sass/main.scss */
   #nav-icon {
     top: 30px;
     right: 60px;
     position: absolute;
   }
+  /* line 183, ../sass/main.scss */
+  #nav-icon #languages {
+    position: absolute;
+    top: 3px;
+    right: 20px;
+    width: 80px;
+  }
 }
 @media only screen and (min-width: 1140px) {
-  /* line 130, ../sass/main.scss */
+  /* line 135, ../sass/main.scss */
   #nav-icon {
     width: 100%;
     position: absolute;
     top: 0;
     left: 0;
   }
-  /* line 137, ../sass/main.scss */
+  /* line 191, ../sass/main.scss */
   #nav-icon .max-width-container {
     width: 1020px;
     margin: auto;
   }
-  /* line 138, ../sass/main.scss */
+  /* line 192, ../sass/main.scss */
   #nav-icon .max-width-container svg {
     float: right;
     margin-top: 30px;
   }
+  /* line 194, ../sass/main.scss */
+  #nav-icon .max-width-container #languages {
+    float: right;
+    margin-top: 34px;
+    margin-right: 20px;
+  }
 }
 
 @media only screen and (max-width: 320px) {
-  /* line 145, ../sass/main.scss */
+  /* line 205, ../sass/main.scss */
   .main-content {
     margin-left: 10px;
     margin-right: 10px;
   }
 }
 @media only screen and (min-width: 321px) and (max-width: 1023px) {
-  /* line 145, ../sass/main.scss */
+  /* line 205, ../sass/main.scss */
   .main-content {
     margin-left: 30px;
     margin-right: 30px;
   }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1139px) {
-  /* line 145, ../sass/main.scss */
+  /* line 205, ../sass/main.scss */
   .main-content {
     margin-left: 60px;
     margin-right: 60px;
   }
 }
 @media only screen and (min-width: 1140px) {
-  /* line 145, ../sass/main.scss */
+  /* line 205, ../sass/main.scss */
   .main-content {
     width: 1020px;
     margin: auto;
@@ -628,6 +694,14 @@ body, html {
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'jp-font';
+  src: url(../font/jp-smart.eot);
+  src: url("../font/jp-smart.eot#iefix") format("embedded-opentype"), url("../font/jp-smart.woff") format("woff"), url("../font/jp-smart.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
 /* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
 /*
@@ -638,7 +712,7 @@ body, html {
   }
 }
 */
-/* line 22, ../sass/_font.scss */
+/* line 33, ../sass/_font.scss */
 [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
   font-style: normal;
@@ -664,13 +738,13 @@ body, html {
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-/* line 53, ../sass/_font.scss */
+/* line 64, ../sass/_font.scss */
 .icon-facebook-rect:before {
   content: '\e800';
 }
 
 /* '' */
-/* line 54, ../sass/_font.scss */
+/* line 65, ../sass/_font.scss */
 .icon-twitter-bird:before {
   content: '\e801';
 }
