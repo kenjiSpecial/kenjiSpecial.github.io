@@ -3,7 +3,7 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 17, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 17, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -25,45 +25,45 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 22, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 22, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html {
   line-height: 1;
 }
 
-/* line 24, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 24, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 26, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 26, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 28, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 28, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
 }
 
-/* line 30, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 30, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q, blockquote {
   quotes: none;
 }
-/* line 103, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 103, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none;
 }
 
-/* line 32, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 32, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 a img {
   border: none;
 }
 
-/* line 116, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 116, ../../../../../Library/Ruby/Gems/2.0.0/gems/compass-0.12.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
@@ -85,7 +85,6 @@ body, html {
 
 /* line 29, ../sass/main.scss */
 .content-jp {
-  font-family: 'jp-font', sans-serif;
   color: #666 !important;
 }
 
@@ -509,12 +508,16 @@ body, html {
   font-weight: 800;
   margin-bottom: 40px;
 }
+/* line 48, ../sass/_post.scss */
+#post-content .post ul {
+  margin-bottom: 30px;
+}
 /* line 49, ../sass/_post.scss */
 #post-content .post ul li {
   font-size: 16px;
   margin-bottom: 8px;
   font-weight: 300;
-  line-height: 1.2em;
+  line-height: 1.5em;
 }
 /* line 55, ../sass/_post.scss */
 #post-content .post ul li a {
@@ -527,28 +530,41 @@ body, html {
 #post-content .post ul li a:hover {
   text-decoration: line-through;
 }
-/* line 67, ../sass/_post.scss */
+/* line 69, ../sass/_post.scss */
+#post-content .post ol {
+  margin-left: 40px;
+  list-style-type: decimal;
+  margin-bottom: 30px;
+}
+/* line 73, ../sass/_post.scss */
+#post-content .post ol li {
+  font-size: 16px;
+  margin-bottom: 8px;
+  font-weight: 300;
+  line-height: 1.5em;
+}
+/* line 85, ../sass/_post.scss */
 #post-content .post p {
   font-weight: 300;
   font-size: 16px;
   line-height: 1.5em;
   margin-bottom: 40px;
 }
-/* line 73, ../sass/_post.scss */
+/* line 91, ../sass/_post.scss */
 #post-content .post p a {
   font-weight: 400;
   text-decoration: none;
   color: #b3b3b1;
 }
-/* line 77, ../sass/_post.scss */
+/* line 95, ../sass/_post.scss */
 #post-content .post p a:hover {
   text-decoration: line-through;
 }
-/* line 82, ../sass/_post.scss */
+/* line 100, ../sass/_post.scss */
 #post-content .post p pre {
   width: 100%;
 }
-/* line 86, ../sass/_post.scss */
+/* line 104, ../sass/_post.scss */
 #post-content .post p code {
   color: #666666;
   font-weight: 800;
@@ -556,7 +572,7 @@ body, html {
   margin-right: 5px;
   width: 100%;
 }
-/* line 94, ../sass/_post.scss */
+/* line 112, ../sass/_post.scss */
 #post-content .post p img {
   margin-top: 10px;
   max-width: 600px;
@@ -564,51 +580,51 @@ body, html {
   height: auto;
   margin-bottom: -20px;
 }
-/* line 103, ../sass/_post.scss */
+/* line 121, ../sass/_post.scss */
 #post-content .post p strong {
   font-weight: 800;
 }
-/* line 109, ../sass/_post.scss */
+/* line 127, ../sass/_post.scss */
 #post-content .post .highlight {
   background: rgba(0, 0, 0, 0.05);
   font-weight: 400;
   margin-bottom: 50px;
 }
 @media only screen and (max-width: 320px) {
-  /* line 109, ../sass/_post.scss */
+  /* line 127, ../sass/_post.scss */
   #post-content .post .highlight {
     padding: 10px;
   }
 }
 @media only screen and (min-width: 321px) and (max-width: 1023px) {
-  /* line 109, ../sass/_post.scss */
+  /* line 127, ../sass/_post.scss */
   #post-content .post .highlight {
     padding: 20px;
   }
 }
 @media only screen and (min-width: 1024px) and (max-width: 1139px) {
-  /* line 109, ../sass/_post.scss */
+  /* line 127, ../sass/_post.scss */
   #post-content .post .highlight {
     padding: 30px;
   }
 }
 @media only screen and (min-width: 1140px) {
-  /* line 109, ../sass/_post.scss */
+  /* line 127, ../sass/_post.scss */
   #post-content .post .highlight {
     padding: 30px;
   }
 }
-/* line 119, ../sass/_post.scss */
+/* line 137, ../sass/_post.scss */
 #post-content .post .highlight pre {
   width: 100%;
 }
-/* line 121, ../sass/_post.scss */
+/* line 139, ../sass/_post.scss */
 #post-content .post .highlight pre code {
   width: 100%;
   overflow: auto;
   word-wrap: break-word;
 }
-/* line 126, ../sass/_post.scss */
+/* line 144, ../sass/_post.scss */
 #post-content .post .highlight pre code span {
   font-size: 14px;
   line-height: 1.4em;
