@@ -89,5 +89,5 @@ arduino.on('ready', function(){
 LED点滅していますー
 
 ArduinoではLEDが点滅してますー動いたー
-詳しい説明は参考にしたブログで！[http://www.atmarkit.co.jp/ait/articles/1406/23/news026_2.html](http://www.atmarkit.co.jp/ait/articles/1406/23/news026_2.html])
+詳しい説明は今回勉強に使用したブログで！[http://www.atmarkit.co.jp/ait/articles/1406/23/news026_2.html](http://www.atmarkit.co.jp/ait/articles/1406/23/news026_2.html])
 
