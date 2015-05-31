@@ -15,9 +15,7 @@ categories : react.js, js
 
   ※良い点
   
-   チュートリアルブログがある。[http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/](http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/)
-   
-　　サンプルはとてもシンプル。
+   チュートリアルブログがある。[http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/](http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/) サンプルはとてもシンプル。
   
   ※悪い点
   
