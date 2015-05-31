@@ -1,11 +1,11 @@
-
 ---
 layout: post-jp
 title:  "react.jsをサーバー側でレンダリングする"
-date:   2015-05-31
+date:   2014-08-16
 tags : jp
 categories : react.js, js
 ---
+
 
 ## react.jsをサーバー側でレンダリングする
 
