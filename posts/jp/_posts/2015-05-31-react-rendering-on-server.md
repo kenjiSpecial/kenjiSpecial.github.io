@@ -15,4 +15,4 @@ categories : react.js, js
 - [isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example)
 
 ### よさ気なブログ
- -[http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/](http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/)
+ - [http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/](http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/)
