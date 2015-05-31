@@ -14,6 +14,15 @@ categories : react.js, js
 - [react-isomorphic-starterkit](https://github.com/RickWong/react-isomorphic-starterkit)
 - [isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example)
 - [example-isomorphic-es6-flux-react](https://github.com/troygoode/example-isomorphic-es6-flux-react)
+- [jobs.nodedc](https://github.com/joshfinnie/jobs.nodedc.com)
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
 
 ### よさ気なブログ
+
  - [http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/](http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/)
+ 
+ 
+### starter kit
+
+- [React Starter Kit](http://www.reactstarterkit.com/)
+
