@@ -23,27 +23,43 @@ categories : react.js, js
 
 #### [react-isomorphic-starterkit](https://github.com/RickWong/react-isomorphic-starterkit)
 #### [isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example)
+
 #### [example-isomorphic-es6-flux-react](https://github.com/troygoode/example-isomorphic-es6-flux-react)
+ 
+ ※良い点
+
+   es6で作成されている。
+   
+   gulpタスク管理している。
+  
+  ※悪い点
+  
+  説明が少ない。
+  　
+  　
 #### [jobs.nodedc](https://github.com/joshfinnie/jobs.nodedc.com)
 
 #### [react-isomorphic-boilerplate](https://github.com/jesstelford/react-isomorphic-boilerplate)
 
   ※良い点
    シンプル
+   
   ※悪い点
   　ダイナミックに変更できない
 
 #### [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
 
-※良い点
+  ※良い点
   
-なんでもできる。様々な機能がある。
+  　なんでもできる。様々な機能がある。
   　
-※悪い点
   
-複雑すぎて、こんなに機能いらない。
+  ※悪い点
+  
+  　複雑すぎて、こんなに機能いらない。
   　
-学習コストが高いが、結局自分で一から勉強したほうがよさそう。
+  　
+    学習コストが高いが、結局自分で一から勉強したほうがよさそう。
   
 
 ### よさ気なブログ
