@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Install Mac Port, failed"
-date:   2014-04-15
+title:  "Install"
+date:   2015-04-15
 categories: [sudo port]
 ---
 
