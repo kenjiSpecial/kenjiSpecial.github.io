@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Shader in WebGL from WebGL School"
+title:  "Shader in WebGL from WebGL Workshop"
 date:   2015-08-16
 categories: [webgl]
 ---
 
 This is meme when I studied WebGl Workshop.
-https://github.com/stackgl/webgl-workshop
+
+[https://github.com/stackgl/webgl-workshop](https://github.com/stackgl/webgl-workshop)
+
 
 ## GLSL
 In WebGL, objects are rendered in parallel using programs called shaders, which are written in a high level language called GLSL
