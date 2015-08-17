@@ -7,6 +7,3 @@ categories: [webgl]
 
 the memo from 
 
-{% highlight language %}  
-   your code goes here  
-{% endhighlight %}
