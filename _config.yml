@@ -5,7 +5,7 @@ description: >
 author: Alex Carpenter
 email: youemail@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.kenji-special.info/" # the base hostname & protocol for your site
+url: "http://blog.kenji-special.info" # the base hostname & protocol for your site
 twitter_username: kenji_special
 github_username:  kenjiSpecial
 
