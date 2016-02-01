@@ -1,3 +1,17 @@
-name: Kenji Saito
-markdown: redcarpet
-pygments: true
+# Site settings
+title: Butane Jekyll Theme
+description: >
+    This is an example of the Butane Jekyll Theme created by Alex Carpenter
+author: Alex Carpenter
+email: youemail@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.kenji-special.info/" # the base hostname & protocol for your site
+twitter_username: kenji_special
+github_username:  kenjiSpecial
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
