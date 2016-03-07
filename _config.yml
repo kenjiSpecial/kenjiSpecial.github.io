@@ -1,9 +1,9 @@
 # Site settings
-title: Butane Jekyll Theme
+title: Kenji Saito
 description: >
-    This is an example of the Butane Jekyll Theme created by Alex Carpenter
+    Kenji Saito Blog
 author: Alex Carpenter
-email: youemail@gmail.com
+email: k.saito.1985@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.kenji-special.info" # the base hostname & protocol for your site
 twitter_username: kenji_special
