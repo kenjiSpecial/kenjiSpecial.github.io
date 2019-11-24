@@ -1,0 +1,48 @@
+I"à<iframe width="560" height="315" src="https://www.youtube.com/embed/trj4YnpoxPA" frameborder="0" allowfullscreen=""></iframe>
+<p>URL: <a href="https://www.g-star.com/en_us/elwood">https://www.g-star.com/en_us/elwood</a></p>
+
+<div class="post-category">
+<p class="post-title">ROLE:</p> 
+<p class="post-value">WebGL Development</p>
+</div>
+
+<div class="post-category">
+<p class="post-title">TECHNOLOGY:</p> 
+<p class="post-value">JavaScript, Three.js, glsl</p>
+</div>
+
+<div class="post-category">
+<p class="post-title">COMPANY:</p> 
+<p class="post-value">Superhero Cheesecake</p>
+</div>
+
+<div class="post-description">
+    <h4>Jeans mesh</h4>
+    <img src="/images/2017/elwood/jeans.gif" />
+    <p>Jeans swing like puppet when you drag with the mouse.</p>
+
+    <img src="/images/2017/elwood/analyze.jpg" />
+    <p>I made node.js script to analyze image with openCV and export mesh uv, index, vertice, connection data into json.</p>
+    <img src="/images/2017/elwood/jeans-prototype.gif" />
+    <p>I referred this medium post a lot: <a href="https://medium.com/@peter.skvarenina/puppet-implementation-e4be982747b6">https://medium.com/@peter.skvarenina/puppet-implementation-e4be982747b6</a>. It explains how puppet simulate form theory.</p>
+
+    <h4>Border of canvas</h4>
+    <img src="/images/2017/elwood/border.gif" />
+    <p>
+    Border of canvas change how far you drag in the border. color of border is gradient which looks like colorfult. the background is plane mesh independent from jeans. 
+    </p>
+
+    <h4>Layout</h4>
+    <img src="/images/2017/elwood/layout.gif" />
+    <p>
+    The layout of jeans can be changed dynamically between explore page and overview page when you scroll the mouse.
+    </p>
+
+    <h4>Mouse Cursor</h4>
+    <p>
+    The custom cursor has two state: normal and rollover. noise is added to cursor in normal state. scan effect is added to cursor in rollover state.
+    </p>
+</div>
+
+<p>Project URL: <a href="https://www.g-star.com/en_us/elwood">https://www.g-star.com/en_us/elwood</a></p>
+:ET

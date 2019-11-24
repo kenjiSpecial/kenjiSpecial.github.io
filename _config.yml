@@ -1,8 +1,7 @@
 # Site settings
-title: Kenji Saito
-description: >
-    Kenji Saito Blog
-author: Alex Carpenter
+title: Kenji Saito Archives
+description: Kenji Saito's Works, Sketches, and Activities
+author: Kenji Saito
 email: k.saito.1985@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.kenji-special.info" # the base hostname & protocol for your site

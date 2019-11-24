@@ -27,3 +27,67 @@
 // Vendor
 @import
     'vendor/highlight';
+
+.post-category{
+
+}
+
+.post-title{
+    color: #acb9bd;
+    font-size: 14px;
+    line-height: 1.2em;
+}
+
+.c-article{
+    img{
+        display: block;
+        margin-bottom: 30px;
+    }
+}
+.c-archives__item{
+    width: 100%;
+    h3{
+        width: 100%;
+    }
+}
+.c-category{
+    display : block;
+    float: right;
+    font-size: 14px;
+    color: #acb9bd;
+    margin-top: 3px;
+}
+.m-margin{
+    margin-bottom: 60px;
+}
+.post-value{
+
+}
+
+.title-p{
+    font-size: 12px;
+    margin-top: -20px;
+    margin-bottom: 30px;
+    color: #163541;
+    opacity: 0.8;
+}
+
+.post-description{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    h4{
+        margin-bottom: 20px;
+        font-size: 22px;
+    }
+    h5{
+        font-size:20px;
+        margin-bottom: 20px;
+    }
+    p{
+        margin-bottom: 20px;
+    }
+
+    ul{
+        margin-bottom: 20px;
+    }
+}
