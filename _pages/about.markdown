@@ -4,31 +4,32 @@ title: About
 permalink: /about/
 ---
 
-自己紹介/About
 
 斎藤健二
-
-さいとうけんじ
-
 SAITO KENJI
 
-mail: <a [href="mailto:k.saito.1985@gmail.com](mailto:href=%22mailto:k.saito.1985@gmail.com)" target="_top">[k.saito.1985@gmail.com](mailto:k.saito.1985@gmail.com)</a>
+k.saito.1985@gmail.com
+
+<br>
 
 東京で新聞社でフロントエンド/WebGLを中心にエンジニアとして働いています。
 
-ビジュアルコンピューティングを利用してニュースコンテンツを効果的に伝えることができないかの試作・開発を行なっています。
+ビジュアルコンピューティングを利用してニュースを効果的に伝えることができないかの試作・開発を行なっています。
 
-これまで7年間デジタル広告の開発エンジニアとしてウェブサイトからインスタレーションまで携わってきました。デジタル広告で培ったプログラムを使った表現や技術をニュース業界に活かそうと模索しています。
+これまで7年間デジタル広告の開発エンジニアとしてウェブサイトからインスタレーションまで携わってきました。プログラムを使った表現や技術をニュース業界や他業界に活かせないかと模索しています。
 
-日々の仕事でFirebaseを使ったツールやWebGLを使ったインタラクティブなコンテンツを作ったりしています。
+日々の仕事でFirebaseやReactを使ったツールやWebGLを使ったインタラクティブなコンテンツを作ったりしています。
 
-情報デザインを専門学校で勉強してきた経歴を活かしphotoshop、Affinity Design、Blenderなどを使いプロタイプのラフスケッチ制作やコミュニケーションとして使用しています。
+情報デザインを専門学校で勉強してきた経歴を活かしphotoshop、Affinity Design、Blenderなどを使いプロタイプのラフスケッチ制作やコミュニケーション手段として使用しています。
 
 休みや平日の夜を利用しDan-Shari-GLというWebGL向けのライブラリをゼロから作成しています。
 
 その他には3DソフトのBlenderやHoudiniを勉強、量子コンピュータや機械学習について学んでいます。それらの経験を日々の仕事や自主制作に活かせないかと試作に励んでいます。
 
-スキル
+<br>
+<br>
+<h2>スキル</h2>
+<br>
 
 よく使う
 
@@ -46,21 +47,29 @@ PHP/C/C++/OpenFrameworks
 
 学習中
 
-Pytorch/Tensorflow/Houdini
+Pytorch/Tensorflow/Houdini/Qiskit
 
-職歴
+<br>
+<br>
+
+## 職歴
+<br>
 
 日本経済新聞社(日本) 新聞社 エンジニア
 
-SuperHeroCheesecake(オランダ)　デジタル広告会社　WebGLデベロッパー
+SuperHeroCheesecake(オランダ)　デジタル広告　WebGLデベロッパー
 
-Watson(USA) デジタル広告会社　クリエイティブ・デベロッパー
+Watson(USA) デジタル広告　クリエイティブ・デベロッパー
 
-THA(日本) デジタル制作会社　デザイナー・エンジニア
+THA(日本) デジタル制作　デザイナー・エンジニア
 
-Luxurious Animals(USA) デジタル広告会社　フロントエンドエンジニア
+Luxurious Animals(USA) デジタル広告　フロントエンドエンジニア
 
-学歴
+
+<br>
+<br>
+## 学歴
+<br>
 
 岐阜県立国際情報科学芸術アカデミー　情報デザインコース卒業
 
@@ -68,7 +77,10 @@ Luxurious Animals(USA) デジタル広告会社　フロントエンドエンジ
 
 東京大学農学部地域環境工学科卒業
 
-主な受賞
+<br>
+<br>
+## 主な受賞
+<br>
 
 5 x AWWWARDS SITE OF THE DAY
 
@@ -76,13 +88,18 @@ Luxurious Animals(USA) デジタル広告会社　フロントエンドエンジ
 
 「日本タイポグラフィ年鑑2020」オンスクリーン部門ベストワーク賞
 
-原稿執筆
+<br>
+<br>
+## 原稿執筆
+<br>
 
 ウェブデザイニング
 
 Nikkei Development Book Vol3
 
-SNS
+<br>
+<br>
+## SNS
 
 - [twitter](https://twitter.com/kenji_special)
 - [github](https://github.com/kenjiSpecial)
