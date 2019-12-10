@@ -7,13 +7,19 @@
 }
 
 .c-page__header {
-    margin-bottom: 10rem; // 100px
+    margin-bottom: 5rem; // 100px
 
     h1 {
         margin-bottom: 2.5rem; // 25px
         @include fs--heading-2;
         color: $c-base__02;
+
+        &.home-h1{
+            margin-top: 5rem;
+        }
     }
+
+    
 
     p {
         @include fs--meta;

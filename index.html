@@ -12,7 +12,6 @@ title: Home
         <ul class="c-archives__list">
     {% endif %}
         <li class="c-archives__item">
-
             <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="c-category">{{post.categories}}</span></h3>
         </li>
     {% if forloop.last %}
