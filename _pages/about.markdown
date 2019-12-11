@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 
-<h1 class="home-h1">斎藤 健二 Saito Kenji</h1>
-<p class="title-p">Developer &amp; Prototyper</p>
+<h1 class="about-h1">斎藤 健二 Saito Kenji</h1>
 
 maiL: k.saito.1985@gmail.com
 
