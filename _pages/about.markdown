@@ -11,19 +11,19 @@ mail: k.saito.1985@gmail.com
 
 <br>
 
-東京で新聞社でフロントエンド/WebGLを中心にエンジニアとして働いています。
+東京の新聞社でフロントエンド/WebGLを中心にエンジニアとして働いています。
 
-ビジュアルコンピューティングを利用してニュースを効果的に伝えることができないかの試作・開発を行なっています。
+ビジュアルコンピューティングの手法を取り入れてニュースを効果的に伝えることができないかに関心があります。
 
 これまで7年間デジタル広告の開発エンジニアとしてウェブサイトからインスタレーションまで携わってきました。プログラムを使った表現や技術をニュース業界や他業界に活かせないかと模索しています。
 
-日々の仕事でFirebaseやReactを使ったツールやWebGLを使ったインタラクティブなコンテンツを作ったりしています。
+日々の業務ではFirebaseやReactを使ったツールの開発やWebGLを使ったインタラクティブなコンテンツを作ったりしています。
 
-情報デザインを専門学校で勉強してきた経歴を活かしphotoshop、Affinity Design、Blenderなどを使いプロタイプのラフスケッチ制作やコミュニケーション手段として使用しています。
+情報デザインを専門学校で勉強してきたました。photoshop、Affinity Design、Blenderなどを使いプロタイプのラフスケッチ制作やコミュニケーション手段として使用しています。
 
 休みや平日の夜を利用しDan-Shari-GLというWebGL向けのライブラリをゼロから作成しています。
 
-その他には3DソフトのBlenderやHoudiniを勉強、量子コンピュータや機械学習について学んでいます。それらの経験を日々の仕事や自主制作に活かせないかと試作に励んでいます。
+3DソフトのBlenderやHoudiniを勉強、量子コンピュータや機械学習について学んでいます。それらの経験を日々の仕事や自主制作に活かせないかと試作に励んでいます。
 
 [Twitter](https://twitter.com/kenji_special)
  | [GitHub](https://github.com/kenjiSpecial)
@@ -40,15 +40,21 @@ mail: k.saito.1985@gmail.com
 
 WebGL/GLSL/TypeScript/Node.js/Firebase/REACT
 
+<br>
+
 時々使う
 
 JavaScript/Python/Rust/Unity(C#)/Vue/AWS
 
 AfterEffect/Photoshop/AffinityDesign/Blender
 
+<br>
+
 使ってた
 
 PHP/C/C++/OpenFrameworks
+
+<br>
 
 学習中
 
