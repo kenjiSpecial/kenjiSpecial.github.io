@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 
-斎藤健二
-SAITO KENJI
+<h1 class="home-h1">斎藤 健二 Saito Kenji</h1>
+<p class="title-p">Developer &amp; Prototyper</p>
 
-k.saito.1985@gmail.com
+maiL: k.saito.1985@gmail.com
 
 <br>
 
@@ -25,6 +25,12 @@ k.saito.1985@gmail.com
 休みや平日の夜を利用しDan-Shari-GLというWebGL向けのライブラリをゼロから作成しています。
 
 その他には3DソフトのBlenderやHoudiniを勉強、量子コンピュータや機械学習について学んでいます。それらの経験を日々の仕事や自主制作に活かせないかと試作に励んでいます。
+
+[twitter](https://twitter.com/kenji_special)
+ | [github](https://github.com/kenjiSpecial)
+ | [note](https://note.com/kenji_special)
+ | [linkedin](https://www.linkedin.com/in/kenji-saito-5a327340)
+ | [CodePen](http://codepen.io/kenjiSpecial/)
 
 <br>
 <br>
@@ -97,11 +103,3 @@ Luxurious Animals(USA) デジタル広告　フロントエンドエンジニア
 
 Nikkei Development Book Vol3
 
-<br>
-<br>
-## SNS
-
-- [twitter](https://twitter.com/kenji_special)
-- [github](https://github.com/kenjiSpecial)
-- [linkedin](https://www.linkedin.com/in/kenji-saito-5a327340)
-- [CodePen](http://codepen.io/kenjiSpecial/)
