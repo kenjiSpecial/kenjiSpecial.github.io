@@ -7,7 +7,7 @@ permalink: /about/
 
 <h1 class="about-h1">斎藤 健二 Saito Kenji</h1>
 
-maiL: k.saito.1985@gmail.com
+mail: k.saito.1985@gmail.com
 
 <br>
 
@@ -25,10 +25,10 @@ maiL: k.saito.1985@gmail.com
 
 その他には3DソフトのBlenderやHoudiniを勉強、量子コンピュータや機械学習について学んでいます。それらの経験を日々の仕事や自主制作に活かせないかと試作に励んでいます。
 
-[twitter](https://twitter.com/kenji_special)
- | [github](https://github.com/kenjiSpecial)
- | [note](https://note.com/kenji_special)
- | [linkedin](https://www.linkedin.com/in/kenji-saito-5a327340)
+[Twitter](https://twitter.com/kenji_special)
+ | [GitHub](https://github.com/kenjiSpecial)
+ | [Note](https://note.com/kenji_special)
+ | [Linkedin](https://www.linkedin.com/in/kenji-saito-5a327340)
  | [CodePen](http://codepen.io/kenjiSpecial/)
 
 <br>
