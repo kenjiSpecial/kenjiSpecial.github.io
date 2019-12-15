@@ -110,7 +110,7 @@ The University of Tokyo, Bachelor of Science, Japan, Environmental Engineering, 
 ## Writing
 <br>
 
-[Web Designing](https://book.mynavi.jp/wdonline/)
+[Web Designing](https://book.mynavi.jp/wdonline/)　2014.9, 2014.11
 
 Nikkei Development Book Vol3
 
