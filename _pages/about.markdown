@@ -105,7 +105,7 @@ Luxurious Animals(USA) デジタル広告 フロントエンドエンジニア
 
 [ウェブデザイニング](https://book.mynavi.jp/wdonline/) 2014年9月号/11月号
 
-Nikkei Development Book Vol3
+[Nikkei Development Book Vol3](http://kenjispecial.github.io/2019/09/nikkei-article)
 
 <br>
 <br>
