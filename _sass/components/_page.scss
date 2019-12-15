@@ -54,3 +54,10 @@
         color: $c-base__01;
     }
 }
+
+.c-page__navigation{
+    @include fs--body;
+    margin-bottom: 4rem;
+    display: flex;
+    justify-content: space-between;
+}

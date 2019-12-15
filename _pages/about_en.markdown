@@ -55,7 +55,7 @@ AfterEffect/Photoshop/AffinityDesign/Blender
 
 <br>
 
-Use as Hobby
+use as Hobby
 
 Go/PHP/C/C++/OpenFrameworks/UE4
 
@@ -80,7 +80,7 @@ Watson(USA) Digital Advertisement / Creative Developer
 
 THA(Japan) Digital Production / Designer and Developer
 
-Luxurious Animals(USA) Digital Advertisement　/ Frontend Developer
+Luxurious Animals(USA) Digital Advertisement / Frontend Developer
 
 
 <br>
