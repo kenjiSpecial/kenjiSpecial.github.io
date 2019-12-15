@@ -4,13 +4,14 @@ title: About(En)
 permalink: /about_en/
 ---
 
-[日本語](/about)
 
 <h1 class="about-h1">斎藤 健二 Saito Kenji</h1>
 
 mail: k.saito.1985@gmail.com
 
 <br>
+
+[日本語](/about)
 
 I'm working frontend/webgl developer for the news company in Tokyo.
 

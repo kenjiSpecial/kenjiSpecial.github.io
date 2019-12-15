@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[English](about_en)
 
 <h1 class="about-h1">斎藤 健二 Saito Kenji</h1>
 
 mail: k.saito.1985@gmail.com
 
 <br>
+[English](/about_en)
 
 東京の新聞社でフロントエンド/WebGLを中心にエンジニアとして働いています。
 
