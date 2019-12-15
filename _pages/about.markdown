@@ -103,7 +103,7 @@ Luxurious Animals(USA) デジタル広告 フロントエンドエンジニア
 <br>
 ## 原稿執筆
 
-[ウェブデザイニング](https://book.mynavi.jp/wdonline/)
+[ウェブデザイニング](https://book.mynavi.jp/wdonline/) 2014年9月号/11月号
 
 Nikkei Development Book Vol3
 
