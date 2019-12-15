@@ -37,7 +37,6 @@ mail: k.saito.1985@gmail.com
 <br>
 <br>
 <h2>スキル</h2>
-<br>
 
 よく使う
 
@@ -67,7 +66,6 @@ Pytorch/Tensorflow/ArCore/Houdini/Qiskit
 <br>
 
 ## 職歴
-<br>
 
 日本経済新聞社(日本) 新聞社 エンジニア
 
@@ -83,7 +81,6 @@ Luxurious Animals(USA) デジタル広告 フロントエンドエンジニア
 <br>
 <br>
 ## 学歴
-<br>
 
 2012年 岐阜県立国際情報科学芸術アカデミー　情報デザインコース卒業
 
@@ -94,7 +91,6 @@ Luxurious Animals(USA) デジタル広告 フロントエンドエンジニア
 <br>
 <br>
 ## 主な受賞
-<br>
 
 5 x [AWWWARDS](https://www.awwwards.com/) SITE OF THE DAY
 
@@ -106,7 +102,6 @@ Luxurious Animals(USA) デジタル広告 フロントエンドエンジニア
 <br>
 <br>
 ## 原稿執筆
-<br>
 
 [ウェブデザイニング](https://book.mynavi.jp/wdonline/)
 
@@ -115,7 +110,6 @@ Nikkei Development Book Vol3
 <br>
 <br>
 ## インタビュー
-<br>
 
 [Web Design(韓国)](http://kenjispecial.github.io/2015/09/magazine)
 
