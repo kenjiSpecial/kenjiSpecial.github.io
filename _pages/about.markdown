@@ -22,7 +22,7 @@ mail: k.saito.1985@gmail.com
 
 日々の業務ではFirebaseやReactを使ったツールの開発やWebGLを使ったインタラクティブなコンテンツを作ったりしています。
 
-情報デザインを専門学校で勉強しました。photoshop、Affinity Design、Blenderなどを使いプロトタイプのデザイン制作し、チーム内でのコミュニケーションがスムーズにいくように努めています。
+情報デザインを専門学校で勉強しました。Photoshop、Affinity Design, After Effect、Blenderなどを使いプロトタイプのデザイン制作し、チーム内でのコミュニケーションがスムーズにいくように努めています。
 
 休みや平日の夜を利用し[Dan-Shari-GL](https://github.com/kenjiSpecial/dan-shari-gl)というWebGLフレームワークを作成しています。
 
