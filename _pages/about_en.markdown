@@ -23,7 +23,7 @@ I'm exploring using my skill in other than digital advertisement.
 
 I'm developing web tool using Firebase and React or news contents with WebGL at work.
 
-I'm using photoshop, Affinity Design、and Blender to design the prototype or communicate with our team.
+I'm using Photoshop, Affinity Design, After Effect and Blender to design the prototype or communicate with our team.
 
 I'm developing my webgl framework, [dan-shari-gl](https://github.com/kenjiSpecial/dan-shari-gl) in my free time.
 
