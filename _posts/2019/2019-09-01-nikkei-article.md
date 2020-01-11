@@ -3,6 +3,7 @@ layout: post
 title:  "Nikkei Dev Article"
 date:   2019-09-01
 categories: "Writing"
+thumb: "/images/2019/nikkei-dev/thumb.jpg"
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 title: 2018 Portfolio
 date: 2018-01-15
 categories: "PersonalProject"
+thumb: "/images/2018/portfolio/thumb.jpg"
 ---
 <a href="http://kenji-special.info/">http://kenji-special.info/</a>
 

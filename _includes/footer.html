@@ -12,3 +12,21 @@
     <p>Follow: {% if site.twitter_username %}<a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a><span class="u-separate"></span>{% endif %}{% if site.github_username %}<a href="https://github.com/{{ site.github_username }}">Github</a>{% endif %}</p>
 </footer>
 
+
+<script>
+    (function(){
+        let images = document.querySelectorAll(".item-thumb");
+        lazyload(images)
+        // lazyload();
+    })();
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-42485016-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-42485016-3');
+</script>

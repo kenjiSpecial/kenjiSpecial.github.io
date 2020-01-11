@@ -3,6 +3,7 @@ layout: post
 title: dan-shari-gl
 date: 2019-02-01
 categories: "PersonalProject"
+thumb: "/images/2019/dan-shari-gl/thumb.jpg"
 ---
 <a href="https://github.com/kenjiSpecial/dan-shari-gl">https://github.com/kenjiSpecial/dan-shari-gl</a>
 

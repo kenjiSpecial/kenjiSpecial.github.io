@@ -3,6 +3,7 @@ layout: post
 title:  "Style Port Key Visual"
 date:   2018-05-15
 categories: "Client Work"
+thumb: "/images/2018/styleport/thumb.jpg"
 ---
 [https://styleport.co.jp][workUrl]
 
