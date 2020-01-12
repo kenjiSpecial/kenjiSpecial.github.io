@@ -3,6 +3,7 @@ layout: post
 title:  "Heart of Travel"
 date:   2017-06-01
 categories: "Client Work"
+thumb: "/images/2017/aot/thumb.jpg"
 ---
 <a href="https://www.southwestheartoftravel.com/awards/">https://www.southwestheartoftravel.com/awards/</a>
 
