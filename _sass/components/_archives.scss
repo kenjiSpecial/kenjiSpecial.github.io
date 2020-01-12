@@ -30,6 +30,12 @@
     // justify-content: space-evenly;
     width: 100%;
 
+    &:hover{
+        h3{
+            color: $c-accent__blue-hover;
+        }
+    }
+
     @media screen and (min-width: 520px){
         
         

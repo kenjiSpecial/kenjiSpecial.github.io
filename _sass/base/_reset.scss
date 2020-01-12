@@ -89,7 +89,7 @@ a {
     color: $c-accent__blue;
 }
 
-a:active, a:hover { outline: 0; }
+a:active, a:hover { outline: 0; color: $c-accent__blue-hover; }
 
 /* Text Selectors */
 
