@@ -12,21 +12,17 @@ mail: k.saito.1985@gmail.com
 <br>
 [English](/about_en)
 
-東京の新聞社でフロントエンド/WebGLをメインとするエンジニアとして働いています。
+東京でフロントエンド/WebGLをメインとするエンジニアとして働いています。
 
 ビジュアルコンピューティングの手法を取り入れて効果的にニュースを伝えることに関心があります。
 
-これまで7年間デジタル広告向けのウェブサイト/ゲーム/インスタレーションなどの開発を行なってきました。
+リッチなインタラクティブ表現をプログラムを使って実装することが自分の強みです。
 
-リッチなインタラクティブ表現をプログラムを使って作ることが自分の強みです。その技術を他業界に活かせないかと模索しています。
+日々の業務ではFirebaseやReactを使ったツールの開発やWebGLを使ったインタラクティブなコンテンツを作ります。
 
-日々の業務ではFirebaseやReactを使ったツールの開発やWebGLを使ったインタラクティブなコンテンツを作ったりしています。
+Photoshop、Affinity Design, After Effect、Blenderなどを使いプロトタイプ制作に使用ています。
 
-情報デザインを専門学校で勉強しました。Photoshop、Affinity Design, After Effect、Blenderなどを使いプロトタイプのデザイン制作し、チーム内でのコミュニケーションがスムーズにいくように努めています。
-
-休みや平日の夜を利用し[Dan-Shari-GL](https://github.com/kenjiSpecial/dan-shari-gl)というWebGLフレームワークを作成しています。
-
-3DソフトのBlenderやHoudiniを勉強、量子コンピュータ（アルゴリズムと開発キット)や機械学習について学んでいます。それらの学びを日々の仕事や自主制作に活かし、プロトタイプ制作に励んでいます。
+週末などを利用し、量子コンピュータ（アルゴリズムと開発キット)や機械学習について学んでいます。CourseraのMachine Learningのコースを[終了](https://www.coursera.org/account/accomplishments/records/SGJHB7UGJNB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course)しました。これからkaggleのコンペに挑戦しようと考えています。
 
 [Twitter](https://twitter.com/kenji_special)
  | [GitHub](https://github.com/kenjiSpecial)
