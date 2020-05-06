@@ -24,6 +24,8 @@ Photoshop、Affinity Design, After Effect、Blenderなどを使いプロトタ�
 
 週末などを利用し、量子コンピュータ（アルゴリズムと開発キット)や機械学習について学んでいます。CourseraのMachine Learningのコースを[終了](https://www.coursera.org/account/accomplishments/records/SGJHB7UGJNB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course)しました。これからkaggleのコンペに挑戦しようと考えています。
 
+お気軽にお問い合わせください。
+
 [Twitter](https://twitter.com/kenji_special)
  | [GitHub](https://github.com/kenjiSpecial)
  | [Note](https://note.com/kenji_special)
