@@ -13,21 +13,23 @@ mail: k.saito.1985@gmail.com
 
 [日本語](/about)
 
-I'm working frontend/webgl developer for the news company in Tokyo.
+I'm working as frontend/webgl developer for the news company in Tokyo.
 
 I'm interested in visual computing technlogy to tell the news effectively.
 
 I've developeed webgl site and digital installation in Japan and USA and Netherlands for more than 7 years.
 
-I'm exploring using my skill in other than digital advertisement.
-
 I'm developing web tool using Firebase and React or news contents with WebGL at work.
 
-I'm using Photoshop, Affinity Design, After Effect and Blender to design the prototype or communicate with our team.
-
-I'm developing my webgl framework, [dan-shari-gl](https://github.com/kenjiSpecial/dan-shari-gl) in my free time.
+I also use Photoshop, Affinity Design, After Effect, Blender, etc. for prototyping.
 
 I'm also learning machine learning/Deep learing and quantum computer and 3D skill(Blender and Houdini) to broaden the range of my personal works.
+
+I spend weekends and weekday night learning about quantum computing (algorithms and development kits) and machine learning, and I've just finished [Machine Learning course at Coursera](https://www.coursera.org/account/accomplishments/records/SGJHB7UGJNB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course). 
+
+Please feel free to contace me via email. 
+
+Thank you.
 
 
 [Twitter](https://twitter.com/kenji_special)
