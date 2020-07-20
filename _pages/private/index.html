@@ -1,0 +1,70 @@
+---
+layout: page
+title: Home
+permalink: /private/
+---
+<section class="c-archives">
+
+<h2 class="c-archives__year" id="private-ref">Non-Public</h2>
+
+<ul class="c-archives__list">
+    {% for page in site.pages reversed  %}
+
+        {% if page.tag == "private" %}
+            <li class="c-archives__item">
+                <a href="{{ page.permalink | prepend: site.baseurl }}">
+                    <div>
+                        <img 
+                            class="item-thumb"
+                            data-src="{{ page.thumb }}"
+                        />
+                        <h3>{{ page.title }}</h3>
+                        <p>{{ page.categories }}</p>
+                    </div> 
+                </a>   
+            </li> 
+        {% endif %}
+    {% endfor %}
+</ul>
+
+{% for post in site.posts  %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+    
+    {% if forloop.first %}
+        <h2 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}</h2>
+        <ul class="c-archives__list">
+    {% endif %}
+        <li class="c-archives__item">
+            {% if post.thumb %}
+            <a href="{{ post.url | prepend: site.baseurl }}">
+            <div>
+                <img 
+                    class="item-thumb"
+                    data-src="{{ post.thumb }}"
+                />
+                <h3>{{ post.title }}</h3>
+                <p>{{ post.categories }}</p>
+            </div>
+        </a>
+            {% else %}
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <div>
+                    <h3>{{ post.title }}</h3>
+                    <p>{{ post.categories }}</p>
+                </div>
+            </a>
+             {% endif %}
+            
+        </li>
+    {% if forloop.last %}
+        </ul>
+    {% else %}
+        {% if this_year != next_year %}
+        </ul>
+        <h2 class="c-archives__year" id="{{ next_year }}-ref">{{next_year}}</h2>
+        <ul class="c-archives__list">
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</section>
