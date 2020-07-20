@@ -6,7 +6,9 @@ thumb: "/images/private/table/thumbnail.png"
 tag: private
 ---
 
-<iframe width="600" height="340" src="https://www.youtube.com/embed/85zup374hBk" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/85zup374hBk" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <div class="post-category">
 <p class="post-title">Date:</p>

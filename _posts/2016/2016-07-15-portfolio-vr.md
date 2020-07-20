@@ -6,7 +6,9 @@ categories: "Personal Project"
 ---
 [http://kenji-special.tv/vr][workUrl]
 
-<iframe width="600" height="340" src="https://www.youtube.com/embed/76KthMgCZLs" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+    <iframe src="https://www.youtube.com/embed/76KthMgCZLs" frameborder="0" allowfullscreen></iframe>
+</div>
 
 I started to research VR, and started to use Vive.
 

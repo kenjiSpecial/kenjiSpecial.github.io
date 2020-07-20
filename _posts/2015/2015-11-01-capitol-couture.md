@@ -8,7 +8,9 @@ categories: "Client Work"
 
 [![xFiles](/images/2015/capitol-couture/img01.jpg)][workUrl]
 
-<iframe src="https://player.vimeo.com/video/145689100?title=0&byline=0&portrait=0" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-wrapper">
+<iframe src="https://player.vimeo.com/video/145689100?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 <div class="post-category">
 <p class="post-title">ROLE:</p> 

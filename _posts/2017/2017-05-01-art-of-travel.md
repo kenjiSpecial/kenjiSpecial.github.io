@@ -7,7 +7,9 @@ thumb: "/images/2017/aot/thumb.jpg"
 ---
 <a href="https://www.southwestheartoftravel.com/awards/">https://www.southwestheartoftravel.com/awards/</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Dr_0dwNDEU" frameborder="0" allowfullscreen></iframe>>
+<div class="video-wrapper">
+<iframe  src="https://www.youtube.com/embed/2Dr_0dwNDEU" frameborder="0" allowfullscreen></iframe>>
+</div>
 
 <div class="post-category">
 <p class="post-title">ROLE:</p> 
