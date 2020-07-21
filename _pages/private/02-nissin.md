@@ -1,12 +1,12 @@
 ---
 layout: content
 title: 日清食品グループトップページ
-permalink: /private/table-tennis-analyze-tool
+permalink: /private/nissin
 thumb: "/images/private/nissin/thumb.jpg"
 tag: private
 ---
 
-[https://www.nissin.com][workUrl]
+[https://www.nissin.com][workurl]
 
 <div class="video-wrapper">
 <iframe src="https://www.youtube.com/embed/F-gXkRfQxdc" frameborder="0" allowfullscreen></iframe>
@@ -24,6 +24,15 @@ tag: private
 
  <div class="m-margin"></div>
  
+<div class="post-description">
+<p>
+I created a top page for the Nissin Foods Group. Working with an art director, the site is an endless loop of Nisshin Food Group products and commercials. It took over a year to create and many prototypes were created.
+</p>
+
+<p>The 3D spirals were created in WebGL so that the site can be displayed on both smartphones and PCs. You can scroll this site Infinitely.
+</p>
+</div>
+
 <div class="post-description">
 <p>日清食品グループのトップページを作成しました。アートディレクターの方と組んで、日清食品グループのプロダクトやコマーシャルを無限にループするサイトになっています。制作には１年以上かけ、多くの試作を作りました。</p>
 <p>3D螺旋はWebGLで作成し、いくらスクロールしてもスマホ、PCどちらでも表示できるようにしています。</p>
@@ -63,8 +72,6 @@ tag: private
     <iframe src="https://www.youtube.com/embed/GGKgBdSgOdY" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
-
-
 
  <div class="m-margin"></div>
 

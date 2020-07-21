@@ -13,19 +13,15 @@ mail: k.saito.1985@gmail.com
 
 [日本語](/about)
 
-I'm working as frontend/webgl developer for the news company in Tokyo.
 
-I'm interested in visual computing technlogy to tell the news effectively.
+I'm a full-stack engineer in Tokyo, Japan, and implementing real-time grphics content and tools with rich graphics such as AR, VR, visualization and simulation is my strength. 
 
-I've developeed webgl site and digital installation in Japan and USA and Netherlands for more than 7 years.
+My day-to-day work includes writing backend APIs, developing tools using Firebase and React, and creating interactive content using WebGL.
 
-I'm developing web tool using Firebase and React or news contents with WebGL at work.
+I use Photoshop, Affinity Design, After Effect and Blender for prototyping.
 
-I also use Photoshop, Affinity Design, After Effect, Blender, etc. for prototyping.
+In weekends, I spends my time learning about competition programming and machine learning.I've just finished [Machine Learning course at Coursera](https://www.coursera.org/account/accomplishments/records/SGJHB7UGJNB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course). 
 
-I'm also learning machine learning/Deep learing and quantum computer and 3D skill(Blender and Houdini) to broaden the range of my personal works.
-
-I spend weekends and weekday night learning about quantum computing (algorithms and development kits) and machine learning, and I've just finished [Machine Learning course at Coursera](https://www.coursera.org/account/accomplishments/records/SGJHB7UGJNB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course). 
 
 Please feel free to contace me via email. 
 
