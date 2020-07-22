@@ -1,6 +1,6 @@
 ---
 layout: content
-title: 日清食品グループトップページ
+title: nissin.com top 
 permalink: /private/nissin
 thumb: "/images/private/nissin/thumb.jpg"
 tag: private

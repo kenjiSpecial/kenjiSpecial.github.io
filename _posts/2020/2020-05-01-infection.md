@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "見てわかる　感染シミュレーション"
+title: "Visualizing Infection Simulation"
 date: 2020-05-01
 categories: "Personal Project"
 thumb: "/images/2020/inf/thumb.jpg"
