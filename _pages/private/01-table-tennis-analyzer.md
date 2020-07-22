@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Table Tennis Data Checking and Analysis Tool
+title: Table Tennis Data Analysis Tool
 permalink: /private/table-tennis-analyze-tool
 thumb: "/images/private/table/thumbnail.png"
 tag: private
