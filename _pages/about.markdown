@@ -34,29 +34,13 @@ Photoshop、Affinity Design, After Effect、Blender などを使いプロトタ�
 <br>
 <h2>スキル</h2>
 
-よく使う
+WebGL GLSL TypeScript Node.js GCP Firebase REACT Docker
 
-WebGL/GLSL/TypeScript/Node.js/GCP/Firebase/REACT/Docker
+JavaScript Python Rust Unity(C#) Vue AWS
 
-<br>
+Go Java PHP C C++ OpenFrameworks
 
-時々使う
-
-JavaScript/Python/Rust/Unity(C#)/Vue/AWS
-
-AfterEffect/Photoshop/AffinityDesign/Blender
-
-<br>
-
-趣味で使う
-
-Go/PHP/C/C++/OpenFrameworks
-
-<br>
-
-学習中
-
-Pytorch/Tensorflow/ArCore/Houdini/Qiskit
+AfterEffect Photoshop AffinityDesign Blender
 
 <br>
 <br>

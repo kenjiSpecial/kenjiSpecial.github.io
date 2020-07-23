@@ -39,30 +39,13 @@ Thank you.
 <h2>Skill</h2>
 <br>
 
-use always
+WebGL GLSL TypeScript Node.js GCP Firebase REACT Docker
 
-WebGL/GLSL/TypeScript/Node.js/GCP/Firebase/REACT
+JavaScript Python Rust Unity(C#) Vue AWS
 
-<br>
+Go Java PHP C C++ OpenFrameworks
 
-use sometimes
-
-JavaScript/Python/Rust/Unity(C#)/Vue/AWS
-
-AfterEffect/Photoshop/AffinityDesign/Blender
-
-<br>
-
-use as Hobby
-
-Go/PHP/C/C++/OpenFrameworks/UE4
-
-<br>
-
-learning
-
-Pytorch/Tensorflow/ArCore/Houdini/Qiskit
-
+AfterEffect Photoshop AffinityDesign Blender
 
 <br>
 <br>
