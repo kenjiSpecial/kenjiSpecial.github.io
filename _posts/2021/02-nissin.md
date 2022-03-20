@@ -1,9 +1,9 @@
 ---
-layout: content
+layout: post
 title: nissin.com top 
-permalink: /private/nissin
+date: 2021-01-01
 thumb: "/images/private/nissin/thumb.jpg"
-tag: private
+categories: "Client Work"
 ---
 
 [https://www.nissin.com][workurl]
@@ -12,10 +12,6 @@ tag: private
 <iframe src="https://www.youtube.com/embed/F-gXkRfQxdc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="post-category">
-<p class="post-title">Date:</p>
-<p class="post-value">2018, 2019</p>
-</div>
 
 <div class="post-category">
 <p class="post-title">TECHNOLOGY:</p>

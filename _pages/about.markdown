@@ -1,38 +1,43 @@
 ---
 layout: content
-title: About
-permalink: /about/
+title: About(En)
+permalink: /about_en/
 ---
+
 
 <h1 class="about-h1">斎藤 健二 Saito Kenji</h1>
 
 mail: k.saito.1985@gmail.com
 
 <br>
-[English](/about_en)
 
-東京でフルスタックエンジニアとしてエンジニアとして働いています。
+[日本語](/about)
 
-リッチなインタラクティブ表現をプログラムを使って実装することが自分の強みです。
 
-日々の業務ではバックエンドの API を書いたり、Firebase や React を使ったツールの開発や WebGLを使ったインタラクティブなコンテンツを作ります。
+I'm a full-stack engineer in Tokyo, Japan, and implementing real-time grphics content and tools with rich graphics such as AR, VR, visualization and simulation is my strength. 
 
-Photoshop、Affinity Design, After Effect、Blender などを使いプロトタイプ制作に使用しています。
+My day-to-day work includes writing backend APIs, developing tools using Firebase and React, and creating interactive content using WebGL.
 
-週末などを利用し、競技プログラミングや機械学習について学んでいます。Coursera の Machine Learning のコースを[終了](https://www.coursera.org/account/accomplishments/records/SGJHB7UGJNB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course)しました。
+I use Photoshop, Affinity Design, After Effect and Blender for prototyping.
 
-お気軽にお問い合わせください。
+In weekends, I spends my time learning about competition programming and machine learning.I've just finished [Machine Learning course at Coursera](https://www.coursera.org/account/accomplishments/records/SGJHB7UGJNB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course). 
+
+
+Please feel free to contace me via email. 
+
+Thank you.
+
 
 [Twitter](https://twitter.com/kenji_special)
-| [GitHub](https://github.com/kenjiSpecial)
-| [Note](https://note.com/kenji_special)
-| [Linkedin](https://www.linkedin.com/in/kenji-saito-5a327340)
-| [CodePen](http://codepen.io/kenjiSpecial/)
-| [AtCoder](https://atcoder.jp/users/kenji_special)
+ | [GitHub](https://github.com/kenjiSpecial)
+ | [Note](https://note.com/kenji_special)
+ | [Linkedin](https://www.linkedin.com/in/kenji-saito-5a327340)
+ | [CodePen](http://codepen.io/kenjiSpecial/)
 
 <br>
 <br>
-<h2>スキル</h2>
+<h2>Skill</h2>
+<br>
 
 WebGL GLSL TypeScript Node.js GCP Firebase REACT Docker
 
@@ -45,46 +50,55 @@ AfterEffect Photoshop AffinityDesign Blender
 <br>
 <br>
 
-## 職歴
+## Working Experience
+<br>
 
-日本経済新聞社(日本) 新聞社 フルスタックエンジニア
+Nikkei inc(Japan) News Company / Engineer
 
-SuperHeroCheesecake(オランダ)　デジタル広告　 WebGL デベロッパー
+SuperHeroCheesecake(Netherlands)　Digital Advertisement / WebGL Developer
 
-Watson(USA) デジタル広告　クリエイティブ・デベロッパー
+Watson(USA) Digital Advertisement / Creative Developer
 
-THA(日本) デジタル制作 デザイナー・エンジニア
+THA(Japan) Digital Production / Designer and Developer
 
-Luxurious Animals(USA) デジタル広告 フロントエンドエンジニア
+Luxurious Animals(USA) Digital Advertisement / Frontend Developer
+
 
 <br>
 <br>
-## 学歴
+## Education
+<br>
 
-2012 年 岐阜県立国際情報科学芸術アカデミー　情報デザインコース卒業
+The Institute of Advanced Media Arts and Science, Japan, Diploma, Multimedia Studio Course, 2012
 
-2009 年 東京大学農学部地域環境工学科卒業
+
+The University of Tokyo, Bachelor of Science, Japan, Environmental Engineering, 2009
+
 
 <br>
 <br>
-## 主な受賞
+## Awards
+<br>
 
 5 x [AWWWARDS](https://www.awwwards.com/) SITE OF THE DAY
 
-13 x [FWA](https://thefwa.com/)of the day
+13 x [FWA](https://thefwa.com/) of the day
 
-[「日本タイポグラフィ年鑑 2020」オンスクリーン部門ベストワーク賞](https://www.nikkei.com/article/DGXMZO52016060R11C19A1000000/)
-
-<br>
-<br>
-## 原稿執筆
-
-[ウェブデザイニング](https://book.mynavi.jp/wdonline/) 2014 年 9 月号/11 月号
-
-[Nikkei Development Book Vol3](http://kenjispecial.github.io/2019/09/nikkei-article)
+[「Japan Typography 2020」Onscreen Bestwork](https://www.nikkei.com/article/DGXMZO52016060R11C19A1000000/)
 
 <br>
 <br>
-## インタビュー
+## Writing
+<br>
 
-[Web Design(韓国)](http://kenjispecial.github.io/2015/09/magazine)
+[Web Designing](https://book.mynavi.jp/wdonline/)　2014.9, 2014.11
+
+Nikkei Development Book Vol3
+
+<br>
+<br>
+## interview
+<br>
+
+[Web Design(Korea)](http://kenjispecial.github.io/2015/09/magazine)
+
