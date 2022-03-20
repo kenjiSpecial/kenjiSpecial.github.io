@@ -1,7 +1,7 @@
 ---
 layout: content
-title: About
-permalink: /about/
+title: About(JP)
+permalink: /about_jp/
 ---
 
 <h1 class="about-h1">斎藤 健二 Saito Kenji</h1>

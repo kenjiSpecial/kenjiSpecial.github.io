@@ -9,14 +9,14 @@ thumb: "/images/2020/inf/thumb.jpg"
 [https://www.kenji-special.info/infection-simulation/][workurl]
 
 
-<div class="post-description">
 <div class="post-fit">
-    <img src="/images/2020/inf/1.jpg" >
-</div>
+    <a href="https://www.kenji-special.info/infection-simulation/" target="_blank">
+        <img src="/images/2020/inf/1.jpg" >
+    </a>
 </div>
 
 <div class="post-fit">
-    <a href="https://www.kenji-special.info/infection-simulation/">
+    <a href="https://www.kenji-special.info/infection-simulation/" target="_blank">
         <img src="/images/2020/inf/0.gif" alt="">
     </a>
 </div>

@@ -1,9 +1,9 @@
 ---
-layout: content
+layout: post 
 title: Table Tennis Data Analysis Tool
-permalink: /private/table-tennis-analyze-tool
+date: 2019-01-02
 thumb: "/images/private/table/thumbnail.png"
-tag: private
+categories: "Client Work"
 ---
 
 <div class="video-wrapper">

@@ -1,7 +1,7 @@
 ---
 layout: content
-title: About(En)
-permalink: /about_en/
+title: About
+permalink: /about/
 ---
 
 

@@ -1,9 +1,9 @@
 ---
-layout: content
+layout: post
 title: Sheepinator VR
-permalink: /private/sheepinator-vr
+date: 2017-01-02
+categories: "Client Work"
 thumb: "/images/private/sheepnator.png"
-tag: private
 ---
 
 <div class="video-wrapper">
