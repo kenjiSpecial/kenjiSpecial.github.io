@@ -11,21 +11,7 @@ mail: k.saito.1985@gmail.com
 
 <br>
 
-[日本語](/about)
-
-
-I'm a full-stack engineer in Tokyo, Japan, and implementing real-time grphics content and tools with rich graphics such as AR, VR, visualization and simulation is my strength. 
-
-My day-to-day work includes writing backend APIs, developing tools using Firebase and React, and creating interactive content using WebGL.
-
-I use Photoshop, Affinity Design, After Effect and Blender for prototyping.
-
-In weekends, I spends my time learning about competition programming and . 
-
-
-Please feel free to contace me via email. 
-
-Thank you.
+I'm developer, prototyper and manager at Industry One, Tokyo.
 
 
 [Twitter](https://twitter.com/kenji_special)
@@ -53,17 +39,17 @@ Figma AfterEffect Photoshop AffinityDesign Blender
 ## Working Experience
 <br>
 
-Industry One(Japan) News Company / Manager
+[Industry One](https://industry-one.com/) (Japan) News Company / Manager
 
-Nikkei inc(Japan) News Company / Engineer
+[Nikkei inc](https://www.nikkei.com/)(Japan) News Company / Engineer
 
-SuperHeroCheesecake(Netherlands)　Digital Advertisement / WebGL Developer
+[SuperHeroCheesecake](https://superherocheesecake.com/)(Netherlands)　Digital Advertisement / WebGL Developer
 
-Watson(USA) Digital Advertisement / Creative Developer
+[Watson](https://watson.la/)(USA) Digital Advertisement / Creative Developer
 
-THA(Japan) Digital Production / Designer and Developer
+[THA](http://tha.jp/)(Japan) Digital Production / Designer and Developer
 
-Luxurious Animals(USA) Digital Advertisement / Frontend Developer
+[Luxurious Animals](https://www.luxanimals.com/)(USA) Digital Advertisement / Frontend Developer
 
 
 <br>
@@ -72,7 +58,6 @@ Luxurious Animals(USA) Digital Advertisement / Frontend Developer
 <br>
 
 The Institute of Advanced Media Arts and Science, Japan, Diploma, Multimedia Studio Course, 2012
-
 
 The University of Tokyo, Bachelor of Science, Japan, Environmental Engineering, 2009
 
