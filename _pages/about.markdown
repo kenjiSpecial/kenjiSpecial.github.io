@@ -11,7 +11,7 @@ mail: k.saito.1985@gmail.com
 
 <br>
 
-I'm a developer, a prototyper and a manager for dev and design team at [Industry One](https://industry-one.com/), Tokyo.
+I'm a software engineer, a prototyper and a manager for the dev and design team at [Industry One](https://industry-one.com/), Tokyo.
 
 
 [Twitter](https://twitter.com/kenji_special)
@@ -39,7 +39,7 @@ Figma AfterEffect Photoshop AffinityDesign Blender
 ## Working Experience
 <br>
 
-[Industry One](https://industry-one.com/) (Japan) DX Consultion Company / Manager for dev and design team
+[Industry One](https://industry-one.com/) (Japan) DX Consultion Company / Manager for the dev and design team
 
 [Nikkei inc](https://www.nikkei.com/)(Japan) News Company / Software Engineer
 
@@ -49,7 +49,7 @@ Figma AfterEffect Photoshop AffinityDesign Blender
 
 [THA](http://tha.jp/)(Japan) Digital Production / Designer and Developer
 
-[Luxurious Animals](https://www.luxanimals.com/)(USA) Digital Advertisement / Frontend Developer
+[Luxurious Animals](https://www.luxanimals.com/)(USA) Digital Advertisement / Junior Technologist
 
 
 <br>
