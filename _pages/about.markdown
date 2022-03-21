@@ -11,7 +11,7 @@ mail: k.saito.1985@gmail.com
 
 <br>
 
-I'm developer, prototyper and manager at Industry One, Tokyo.
+I'm developer, prototyper and manager at [Industry One](https://industry-one.com/), Tokyo.
 
 
 [Twitter](https://twitter.com/kenji_special)
@@ -25,7 +25,7 @@ I'm developer, prototyper and manager at Industry One, Tokyo.
 <h2>Skill</h2>
 <br>
 
-WebGL GLSL TypeScript Node.js GCP Firebase REACT Docker
+WebGL GLSL TypeScript Node.js GCP Firebase REACT Docker Git
 
 JavaScript Python Rust Unity(C#) Vue AWS
 
@@ -39,9 +39,9 @@ Figma AfterEffect Photoshop AffinityDesign Blender
 ## Working Experience
 <br>
 
-[Industry One](https://industry-one.com/) (Japan) News Company / Manager
+[Industry One](https://industry-one.com/) (Japan) DX Consultion Company / Manager for dev and design team
 
-[Nikkei inc](https://www.nikkei.com/)(Japan) News Company / Engineer
+[Nikkei inc](https://www.nikkei.com/)(Japan) News Company / Software Engineer
 
 [SuperHeroCheesecake](https://superherocheesecake.com/)(Netherlands)　Digital Advertisement / WebGL Developer
 
@@ -64,7 +64,7 @@ The University of Tokyo, Bachelor of Science, Japan, Environmental Engineering, 
 <br>
 ## Certificates
 
-[Machine Learning course at Coursera](https://www.coursera.org/account/accomplishments/records/SGJHB7UGJNB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course)
+[Machine Learning course at Coursera](https://www.coursera.org/account/accomplishments/records/SGJHB7UGJNB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course), 2020
 
 <br>
 <br>
