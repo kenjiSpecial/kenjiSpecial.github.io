@@ -20,7 +20,7 @@ My day-to-day work includes writing backend APIs, developing tools using Firebas
 
 I use Photoshop, Affinity Design, After Effect and Blender for prototyping.
 
-In weekends, I spends my time learning about competition programming and machine learning.I've just finished [Machine Learning course at Coursera](https://www.coursera.org/account/accomplishments/records/SGJHB7UGJNB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course). 
+In weekends, I spends my time learning about competition programming and . 
 
 
 Please feel free to contace me via email. 
@@ -43,15 +43,17 @@ WebGL GLSL TypeScript Node.js GCP Firebase REACT Docker
 
 JavaScript Python Rust Unity(C#) Vue AWS
 
-Go Java PHP C C++ OpenFrameworks
+Go Java PHP C C++ Rust OpenFrameworks
 
-AfterEffect Photoshop AffinityDesign Blender
+Figma AfterEffect Photoshop AffinityDesign Blender
 
 <br>
 <br>
 
 ## Working Experience
 <br>
+
+Industry One(Japan) News Company / Manager
 
 Nikkei inc(Japan) News Company / Engineer
 
@@ -74,6 +76,10 @@ The Institute of Advanced Media Arts and Science, Japan, Diploma, Multimedia Stu
 
 The University of Tokyo, Bachelor of Science, Japan, Environmental Engineering, 2009
 
+<br>
+## Certificates
+
+[Machine Learning course at Coursera](https://www.coursera.org/account/accomplishments/records/SGJHB7UGJNB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course)
 
 <br>
 <br>
