@@ -11,7 +11,7 @@ mail: k.saito.1985@gmail.com
 
 <br>
 
-I'm developer, prototyper and manager at [Industry One](https://industry-one.com/), Tokyo.
+I'm a developer, a prototyper and a manager for dev and design team at [Industry One](https://industry-one.com/), Tokyo.
 
 
 [Twitter](https://twitter.com/kenji_special)
