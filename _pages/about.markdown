@@ -4,53 +4,52 @@ title: About
 permalink: /about/
 ---
 
-
 <h1 class="about-h1">斎藤 健二 Saito Kenji</h1>
 
 mail: k.saito.1985@gmail.com
 
 <br>
 
-I'm a software engineer, a prototyper and a manager for the dev and design team at [Industry One](https://industry-one.com/), Tokyo.
-
-
 [Twitter](https://twitter.com/kenji_special)
- | [GitHub](https://github.com/kenjiSpecial)
- | [Note](https://note.com/kenji_special)
- | [Linkedin](https://www.linkedin.com/in/kenji-saito-5a327340)
- | [CodePen](http://codepen.io/kenjiSpecial/)
+| [GitHub](https://github.com/kenjiSpecial)
+| [Note](https://note.com/kenji_special)
+| [Linkedin](https://www.linkedin.com/in/kenji-saito-5a327340)
+| [CodePen](http://codepen.io/kenjiSpecial/)
 
 <br>
 <br>
 <h2>Skill</h2>
 <br>
+JavaScript, TypeScript, PHP, Python, Node.js, C++, C#, Rust, Git
 
-WebGL GLSL TypeScript Node.js GCP Firebase REACT Docker Git
+React, Next.js, Vue, Redux
 
-JavaScript Python Rust Unity(C#) Vue AWS
+WebGL, OpenGL, openFrameworks, Processing
 
-Go Java PHP C C++ Rust OpenFrameworks
+Contentful, Google Cloud, AWS,
 
-Figma AfterEffect Photoshop AffinityDesign Blender
+Solidity, Move
+
+Unity, Unreal Engine 5,Blender, AfterEffect
 
 <br>
 <br>
 
 ## Working Experience
+
 <br>
 
 [Industry One](https://industry-one.com/) (Japan) DX Consultion Company / Manager for the dev and design team
 
 [Nikkei inc](https://www.nikkei.com/)(Japan) News Company / Software Engineer
 
-[SuperHeroCheesecake](https://superherocheesecake.com/)(Netherlands)　Digital Advertisement / WebGL Developer
+[SuperHeroCheesecake](https://superherocheesecake.com/)(Netherlands)　 Digital Advertisement / WebGL Developer
 
 [Watson](https://watson.la/)(USA) Digital Advertisement / Creative Developer
 
 [THA](http://tha.jp/)(Japan) Digital Production / Designer and Developer
 
 [Luxurious Animals](https://www.luxanimals.com/)(USA) Digital Advertisement / Junior Technologist
-
 
 <br>
 <br>
@@ -82,7 +81,7 @@ The University of Tokyo, Bachelor of Science, Japan, Environmental Engineering, 
 ## Writing
 <br>
 
-[Web Designing](https://book.mynavi.jp/wdonline/)　2014.9, 2014.11
+[Web Designing](https://book.mynavi.jp/wdonline/)　 2014.9, 2014.11
 
 Nikkei Development Book Vol3
 
@@ -92,4 +91,3 @@ Nikkei Development Book Vol3
 <br>
 
 [Web Design(Korea)](http://kenjispecial.github.io/2015/09/magazine)
-
