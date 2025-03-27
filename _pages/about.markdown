@@ -10,7 +10,7 @@ mail: k.saito.1985@gmail.com
 
 <br>
 
-[Twitter](https://x.com/saitopatopo)
+[X](https://x.com/saitopatopo)
 | [GitHub](https://github.com/kenjiSpecial)
 | [Note](https://note.com/saitopatopo)
 | [Linkedin](https://www.linkedin.com/in/kenji-saito-5a327340)
