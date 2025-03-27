@@ -10,9 +10,9 @@ mail: k.saito.1985@gmail.com
 
 <br>
 
-[Twitter](https://twitter.com/kenji_special)
+[Twitter](https://x.com/saitopatopo)
 | [GitHub](https://github.com/kenjiSpecial)
-| [Note](https://note.com/kenji_special)
+| [Note](https://note.com/saitopatopo)
 | [Linkedin](https://www.linkedin.com/in/kenji-saito-5a327340)
 | [CodePen](http://codepen.io/kenjiSpecial/)
 
