@@ -6,7 +6,12 @@
     max-width: 110rem; // 1100px
     margin-right: auto;
     margin-left: auto;
-    padding-top: 10rem; // 100px
-    padding-right: 1rem; // 10px
-    padding-left: 1rem; // 10px
+    padding-top: 12rem; // 120px
+    padding-right: 2.4rem; // 24px
+    padding-left: 2.4rem; // 24px
+
+    @media screen and (min-width: 780px) {
+        padding-right: 4rem; // 40px
+        padding-left: 4rem; // 40px
+    }
 }
