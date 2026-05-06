@@ -1,14 +1,14 @@
 ---
 layout: content
 title: Resume - Adobe Senior SDE
-permalink: /resume/
+permalink: /resume/adobe-senior-sde/
 ---
 
 # Kenji Saito — Resume for Adobe Senior SDE (R167122)
 
 ## Senior Software Development Engineer @ Adobe Tokyo
 
-[日本語](/resume_jp/)
+[日本語](/resume/adobe-senior-sde-jp/)
 
 > **This resume is specifically tailored for the Adobe Senior Software Development Engineer position (Tokyo, R167122).** It is *not* a general-purpose resume; the work history, skills, and achievements are organized to match the requirements and keywords stated in that specific job posting. If you are evaluating me for a different role, please reach out separately for a general resume.
 
@@ -26,27 +26,27 @@ A frontend engineer with 13 years of experience, specializing in WebGL / Three.j
 
 ## Position Fit
 
-### Required Qualifications — Evidence-Based Mapping
+### Required Qualifications
 
-| Requirement | Experience / Skill | Evidence |
-|------|-------------|-----------|
-| 10+ years of software development | 2012–present (13 years) | Hands-on work at 4 overseas + 3 domestic companies (see work history) |
-| Native Japanese + business-level English | Japanese native; worked in English at 4 companies | 5+ years in English-speaking environments (DE / US / NL) |
-| Bachelor's degree in CS or related field | The University of Tokyo, Faculty of Agriculture, Department of Biological and Environmental Engineering (March 2009) | Plus IAMAS (2012) for media art / programming foundations |
-| Frontend + REST API | React / Next.js / TypeScript, 10+ years | At NOT A HOTEL, shipped 10+ sites; led Next.js → Astro migration |
-| C/C++ or JavaScript | C++ (openFrameworks) / TypeScript, 10+ years | C++ installation work at tha ltd.; long-term JS / TS practice |
-| **Linear algebra / affine transformations** | Daily use of shaders and matrix math in WebGL / Three.js | Authored the WebGL framework **dan-shari-gl**; implemented affine transforms for text and geometry in Three.js |
-| **Generative AI experience (LLM / RAG / fine-tuning)** | At NOT A HOTEL, implemented and operated AI-driven development with Claude Code + Figma MCP | Compressed dev / feedback cycle by **60–144×**; led Astro migration to absorb increased AI deploy cadence |
-| Interest in Japanese text processing / typography | Personal project: an OpenType font parser experiment | Implemented glyph metrics, baseline computation, and other font-data internals on top of my own WebGL framework |
+| Requirement | How I Match |
+|------|------|
+| **10+ years of software development** | 2012–present (**13 years**) at 4 overseas + 3 domestic companies (see work history) |
+| **Native Japanese + business-level English** | Japanese native. **5+ years** in English-speaking workplaces across Germany, the U.S., and the Netherlands (4 companies) |
+| **Bachelor's degree in CS or related field** | The University of Tokyo, Faculty of Agriculture, Dept. of Biological & Environmental Engineering (March 2009) ／ IAMAS DIT Course (2012) |
+| **Frontend + REST API** | React / Next.js / TypeScript, **10+ years**. Shipped 10+ sites at NOT A HOTEL; led Next.js → Astro migration |
+| **C/C++ or JavaScript** | C++ (openFrameworks installations at tha ltd.) ／ TypeScript (10+ years) |
+| **Linear algebra / affine transformations** | Daily use of shaders and matrix math in WebGL / Three.js. **Authored the WebGL framework [dan-shari-gl](https://github.com/kenjiSpecial/dan-shari-gl)** |
+| **Generative AI experience (LLM / RAG / fine-tuning)** | Implementing AI-driven development with Claude Code + Figma MCP at NOT A HOTEL. Compressed dev / feedback cycle by **60–144×**, absorbed higher AI deploy cadence via Astro migration |
+| **Interest in Japanese text processing / typography** | Personal project: an OpenType font parser implementing glyph metrics, baseline computation, and other font internals on top of my own WebGL framework |
 
 ### Preferred Qualifications
 
 | Requirement | Experience / Interest |
-|------|----------|
-| Computer graphics / layout / text processing | Production work in WebGL / Three.js / OpenGL / openFrameworks, plus self-authored WebGL framework |
-| Interest in Japanese typography | Hands-on personal exploration of font internals |
-| RAG / model fine-tuning | Investigating practical applications via NOT A HOTEL's AI development pipeline |
-| Japan-specific use cases / world-ready products | Visualizations for Japanese content at Nikkei; production work at 4 overseas companies in English |
+|------|------|
+| Computer graphics / layout / text processing | Production work in WebGL / Three.js / OpenGL / openFrameworks + self-authored framework `dan-shari-gl` |
+| Interest in Japanese typography | Hands-on exploration of font internals through a personal project |
+| RAG / model fine-tuning | Exploring practical use through NOT A HOTEL's AI development pipeline |
+| Japan-specific use cases / world-ready products | Visualizations for Japanese content at Nikkei; production work at 4 overseas companies |
 
 ---
 
