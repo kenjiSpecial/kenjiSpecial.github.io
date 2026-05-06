@@ -14,7 +14,7 @@ permalink: /resume/adobe-senior-sde/
 
 ## Summary
 
-A frontend engineer with 13 years of experience. WebGL / Three.js–driven 3D and interactive development is my main craft, and I've worked end-to-end on product design, implementation, and operations at 7 companies across Germany, the U.S., the Netherlands, and Japan. Shaders, matrix math, and affine transformations are everyday tools — applied linear algebra is part of the work. To deepen my understanding of WebGL, I authored a small framework called dan-shari-gl and published it on npm. Most recently, at NOT A HOTEL, I've been building an AI-driven development workflow centered on Claude Code and Figma MCP.
+A frontend engineer with 13 years of experience. WebGL / Three.js–driven 3D and interactive development is my main craft, and I've built websites at 7 companies across Germany, the U.S., the Netherlands, and Japan. Through my time as a WebGL developer, shaders, matrix math, and affine transformations have been part of my daily work — applied linear algebra is built into the job. To deepen my understanding of WebGL, I authored a small framework called dan-shari-gl and published it on npm. Most recently, at NOT A HOTEL, I've been building an AI-driven development workflow centered on Claude Code and Figma MCP.
 
 Native Japanese, business-level English.
 
