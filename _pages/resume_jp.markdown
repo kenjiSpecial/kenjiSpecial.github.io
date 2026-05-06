@@ -4,11 +4,13 @@ title: Resume (JP) - Adobe Senior SDE
 permalink: /resume_jp/
 ---
 
-# 斎藤 健二 — Resume
+# 斎藤 健二 — Resume for Adobe Senior SDE (R167122)
 
 ## Senior Software Development Engineer @ Adobe Tokyo
 
 [English](/resume/)
+
+> **このレジュメは Adobe 社 Senior Software Development Engineer（東京、R167122）ポジション向けに特化して作成したものです。** 一般的な転職用の汎用レジュメではなく、求人記載の要件・キーワードに沿って職歴・スキル・成果を構成しています。他社のポジションを検討される方は、別途汎用レジュメの提供をご相談ください。
 
 [ポートフォリオ](https://www.kenji-special.info/) ｜ [GitHub](https://github.com/kenjiSpecial) ｜ [LinkedIn](https://www.linkedin.com/in/kenji-saito-5a327340) ｜ k.saito.1985@gmail.com
 

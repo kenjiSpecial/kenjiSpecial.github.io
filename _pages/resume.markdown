@@ -4,11 +4,13 @@ title: Resume - Adobe Senior SDE
 permalink: /resume/
 ---
 
-# Kenji Saito — Resume
+# Kenji Saito — Resume for Adobe Senior SDE (R167122)
 
 ## Senior Software Development Engineer @ Adobe Tokyo
 
 [日本語](/resume_jp/)
+
+> **This resume is specifically tailored for the Adobe Senior Software Development Engineer position (Tokyo, R167122).** It is *not* a general-purpose resume; the work history, skills, and achievements are organized to match the requirements and keywords stated in that specific job posting. If you are evaluating me for a different role, please reach out separately for a general resume.
 
 [Portfolio](https://www.kenji-special.info/) ｜ [GitHub](https://github.com/kenjiSpecial) ｜ [LinkedIn](https://www.linkedin.com/in/kenji-saito-5a327340) ｜ k.saito.1985@gmail.com
 
